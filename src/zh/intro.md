@@ -2,6 +2,8 @@
 icon: circle-info
 cover: /assets/images/cover3.jpg
 pin: true 
+tag:
+    -　介绍
 ---
 # 介绍页
 ## 简介
@@ -40,8 +42,6 @@ Github：https://github.com/SmallsmallQ
 
 生命亦如一场盛大的、漫长的旅行，来世间一趟，阅三秋风味。被裹挟着，顺着时代洪流，亦步亦趋完美的人生模板，追赶他者心目中的形象，恰似追寻攻略，奔忙于打卡各景点中，匆匆而来，匆匆离开。海德格尔言“向死而生”，在旅途的终点，回望过去，因选择他者所推崇的标准与主流而放弃自己心中所求，悔恨在所难免。不如追随赤诚之心吧，欣赏沿路的风景，认识有趣的人，无怨无愧地踏上这一段旅程。
 
-
-
 # 我的媒体
 
 ## Bilibili
@@ -51,8 +51,3 @@ Github：https://github.com/SmallsmallQ
 ## Github
 
 [SmallsmallQ - Overview](https://github.com/SmallsmallQ)
-
-
-[想对我说 | 小Q的小站](https://www.smallq.top/article/talk_to_me)
-
-https://www.smallq.top/article/talk_to_me

@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: house
 title: Smallq's Personal Website
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: https://i.postimg.cc/zvQ41bSP/logo.png
 heroText: Smallq's Personal Website
 tagline: Welcome to my website!
 heroFullScreen: true

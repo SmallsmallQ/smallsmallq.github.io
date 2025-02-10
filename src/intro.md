@@ -2,8 +2,9 @@
 icon: circle-info
 cover: /assets/images/cover3.jpg
 pin: true 
+tags:
+    - intro
 ---
-
 # Intro Page
 ## Introduction
 
