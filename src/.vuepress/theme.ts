@@ -65,7 +65,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "A law student at Xi'an Jiaotong University.",
 
       displayFooter: true,
 
@@ -89,7 +89,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "一个西安交通大学的法学生",
 
       displayFooter: true,
 
