@@ -1,7 +1,7 @@
 ---
 icon: circle-info
 cover: /assets/images/cover3.jpg
-pin: true 
+sticky: true
 tag:
     - 介绍
 ---
