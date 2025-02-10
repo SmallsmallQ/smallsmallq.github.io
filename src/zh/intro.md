@@ -1,19 +1,9 @@
 ---
 icon: circle-info
 cover: /assets/images/cover3.jpg
+pin: true 
 ---
-
 # 介绍页
-
----
-icon: circle-info
-cover: /assets/images/cover3.jpg
----
-
-# Intro Page
-
-# 关于我
-
 ## 简介
 
 来自 湖北 襄阳
@@ -39,19 +29,6 @@ Bilibili：https://b23.tv/jijuPua
 
 Github：https://github.com/SmallsmallQ
 
-![1000019502.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/ce7d7ee5-dc89-4fc9-be95-586c88edcd2e/7d533f92-37b1-4ea5-93a4-f461cd0c2daa/1000019502.jpg)
-
----
-
-# 个人展示
-
-## 摄影分享
-
-![f6060f68-c6ad-4266-9cf7-d937d629e952-1_all_5626.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/ce7d7ee5-dc89-4fc9-be95-586c88edcd2e/55319532-86d6-4ee3-87e1-4be40b3a2098/f6060f68-c6ad-4266-9cf7-d937d629e952-1_all_5626.jpg)
-
-![f6060f68-c6ad-4266-9cf7-d937d629e952-1_all_2861.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/ce7d7ee5-dc89-4fc9-be95-586c88edcd2e/dfa36fcb-bd7c-427c-ac67-8f9863d2626b/f6060f68-c6ad-4266-9cf7-d937d629e952-1_all_2861.jpg)
-
-![f6060f68-c6ad-4266-9cf7-d937d629e952-1_all_5230.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/ce7d7ee5-dc89-4fc9-be95-586c88edcd2e/36e62e6c-d13c-48fa-a29e-15494496f6c1/f6060f68-c6ad-4266-9cf7-d937d629e952-1_all_5230.jpg)
 
 ## 小文拙作
 
@@ -63,9 +40,7 @@ Github：https://github.com/SmallsmallQ
 
 生命亦如一场盛大的、漫长的旅行，来世间一趟，阅三秋风味。被裹挟着，顺着时代洪流，亦步亦趋完美的人生模板，追赶他者心目中的形象，恰似追寻攻略，奔忙于打卡各景点中，匆匆而来，匆匆离开。海德格尔言“向死而生”，在旅途的终点，回望过去，因选择他者所推崇的标准与主流而放弃自己心中所求，悔恨在所难免。不如追随赤诚之心吧，欣赏沿路的风景，认识有趣的人，无怨无愧地踏上这一段旅程。
 
-![f6060f68-c6ad-4266-9cf7-d937d629e952-1_all_5546.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/ce7d7ee5-dc89-4fc9-be95-586c88edcd2e/bd264f8c-2590-4e5a-8d26-2d44ef2365b5/f6060f68-c6ad-4266-9cf7-d937d629e952-1_all_5546.jpg)
 
----
 
 # 我的媒体
 
@@ -77,7 +52,6 @@ Github：https://github.com/SmallsmallQ
 
 [SmallsmallQ - Overview](https://github.com/SmallsmallQ)
 
----
 
 [想对我说 | 小Q的小站](https://www.smallq.top/article/talk_to_me)
 
