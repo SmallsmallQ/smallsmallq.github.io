@@ -13,13 +13,13 @@ tags:
 
 From Xiangyang, Hubei Province
 
----
+
 icon: circle-info
 cover: /assets/images/cover3.jpg
 pin: true
 tag:
     - Introduction
----
+
 
 # Resume
 
