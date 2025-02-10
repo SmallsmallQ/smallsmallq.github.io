@@ -3,7 +3,7 @@ icon: circle-info
 cover: /assets/images/cover3.jpg
 pin: true 
 tag:
-    -　介绍
+    - 介绍
 ---
 
 # 介绍页
