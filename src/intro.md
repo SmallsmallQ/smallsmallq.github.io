@@ -8,7 +8,6 @@ tag:
 
 # Resume 
 
-
 ## Basic Information
 
 *   **Name:** 小Q (gongyunbo)

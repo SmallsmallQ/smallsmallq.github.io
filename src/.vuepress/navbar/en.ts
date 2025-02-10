@@ -49,4 +49,9 @@ export const enNavbar = navbar([
     icon: "book",
     link: "https://theme-hope.vuejs.press/",
   },
+  {
+    text: "AI Chat",  // 新增 AI 聊天导航项
+    icon: "comment",  // 使用聊天图标
+    link: "/ai-chat/", // 链接到新页面
+  }
 ]);
