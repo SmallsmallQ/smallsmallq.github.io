@@ -2,11 +2,12 @@
 icon: circle-info
 cover: /assets/images/cover3.jpg
 sticky: true 
-tags:
+tag:
     -intro
 ---
 
-# Resume
+# Resume 
+
 
 ## Basic Information
 
