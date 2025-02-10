@@ -2,10 +2,10 @@
 home: true
 layout: BlogHome
 icon: house
-title: Blog Home
+title: Smallq's Personal Website
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: The name of your blog
-tagline: You can put your slogan here
+heroText: Smallq's Personal Website
+tagline: Welcome to my website!
 heroFullScreen: true
 projects:
   - icon: folder-open

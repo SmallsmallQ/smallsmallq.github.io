@@ -2,11 +2,11 @@
 home: true
 layout: BlogHome
 icon: house
-title: 博客主页
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+title: 小Q的个人网站
+heroImage: https://i.postimg.cc/zvQ41bSP/logo.png
+heroText: 小Q的个人网站
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 欢迎来到我的小站！
 projects:
   - icon: folder-open
     name: 项目名称
@@ -24,8 +24,8 @@ projects:
     link: https://你的书籍链接
 
   - icon: newspaper
-    name: 文章名称
-    desc: 文章详细描述
+    name: 文章分享
+    desc: 关于法学等社会科学及计算机科学相关文章
     link: https://你的文章链接
 
   - icon: user-group
