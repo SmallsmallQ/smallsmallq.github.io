@@ -31,6 +31,8 @@ jobs:
           cache: pnpm
 
       - name: 安装依赖
+        env:  
+         COREPACK_IGNORE_SIGNATURES: 1
         run: |
           corepack enable
           corepack prepare pnpm@latest --activate
