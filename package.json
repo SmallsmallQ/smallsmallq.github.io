@@ -10,6 +10,10 @@
     "docs:dev": "vuepress-vite dev src",
     "docs:update-package": "pnpm dlx vp-update"
   },
+  "scripts": {
+    "docs:build": "vuepress build src",
+    "docs:dev": "vuepress dev src"
+  },
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.19",
     "sass-embedded": "^1.83.0",
