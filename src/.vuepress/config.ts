@@ -7,14 +7,14 @@ export default defineUserConfig({
 
   locales: {
     "/": {
+      lang: "en-US",
+      title: "smallQ's Personal Website",
+      description: "Welcome to my website!",
+    },
+    "/zh/": {
       lang: "zh-CN",
       title: "小Q的个人网站",
       description: "欢迎大家来访！",
-    },
-    "/zh/": {
-      lang: "en-US",
-      title: "smallQ's Personal Website",
-      description: "Welcome to visit!",
     },
   },
 
