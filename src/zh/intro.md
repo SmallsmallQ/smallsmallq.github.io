@@ -6,18 +6,6 @@ tag:
     - 介绍
 ---
 
-# 介绍页
-## 简介
-
-来自 湖北 襄阳
-
-icon: circle-info
-cover: /assets/images/cover3.jpg
-pin: true
-tag:
-    - 介绍
-
-
 # 个人简历
 
 ## 基本信息
