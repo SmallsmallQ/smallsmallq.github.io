@@ -80,9 +80,6 @@ importers:
       '@vuepress/plugin-redirect':
         specifier: 2.0.0-rc.8
         version: 2.0.0-rc.8(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13))
-      '@vuepress/plugin-revealjs':
-        specifier: 2.0.0-rc.47
-        version: 2.0.0-rc.47(markdown-it@13.0.2)(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13))
       '@vuepress/plugin-search':
         specifier: ^1.9.10
         version: 1.9.10
@@ -123,6 +120,9 @@ importers:
       '@vuepress/plugin-comment':
         specifier: 2.0.0-rc.74
         version: 2.0.0-rc.74(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13))
+      '@vuepress/plugin-revealjs':
+        specifier: 2.0.0-rc.76
+        version: 2.0.0-rc.76(markdown-it@13.0.2)(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13))
       '@vuepress/shared':
         specifier: 2.0.0-rc.19
         version: 2.0.0-rc.19
@@ -137,7 +137,7 @@ importers:
         version: 2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13)
       vuepress-theme-hope:
         specifier: 2.0.0-rc.71
-        version: 2.0.0-rc.71(@vuepress/plugin-docsearch@2.0.0-rc.0(@algolia/client-search@5.20.1)(search-insights@2.17.3))(@vuepress/plugin-feed@2.0.0-rc.3(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13)))(@vuepress/plugin-prismjs@2.0.0-rc.0)(@vuepress/plugin-pwa@1.9.10)(@vuepress/plugin-revealjs@2.0.0-rc.47(markdown-it@13.0.2)(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13)))(@vuepress/plugin-search@1.9.10)(@vuepress/plugin-slimsearch@2.0.0-rc.61(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13)))(@vuepress/plugin-watermark@2.0.0-rc.27(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13)))(markdown-it@13.0.2)(sass-embedded@1.83.4)(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13))
+        version: 2.0.0-rc.71(@vuepress/plugin-docsearch@2.0.0-rc.0(@algolia/client-search@5.20.1)(search-insights@2.17.3))(@vuepress/plugin-feed@2.0.0-rc.3(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13)))(@vuepress/plugin-prismjs@2.0.0-rc.0)(@vuepress/plugin-pwa@1.9.10)(@vuepress/plugin-revealjs@2.0.0-rc.76(markdown-it@13.0.2)(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13)))(@vuepress/plugin-search@1.9.10)(@vuepress/plugin-slimsearch@2.0.0-rc.61(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13)))(@vuepress/plugin-watermark@2.0.0-rc.27(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13)))(markdown-it@13.0.2)(sass-embedded@1.83.4)(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13))
 
 packages:
 
@@ -1018,15 +1018,6 @@ packages:
       markdown-it:
         optional: true
 
-  '@mdit/plugin-uml@0.13.1':
-    resolution: {integrity: sha512-JdCOg25OyG+QJFAba6AWwdpkaOjuht5VmOqYt4/h/AzLsIHh/2j+TnCZBn0XQm3D8yJ9Y4w4oouS4wpPduRW0A==}
-    engines: {node: '>= 18'}
-    peerDependencies:
-      markdown-it: ^14.1.0
-    peerDependenciesMeta:
-      markdown-it:
-        optional: true
-
   '@mdit/plugin-uml@0.16.0':
     resolution: {integrity: sha512-BIsq6PpmRgoThtVR2j4BGiRGis6jrcxxqQW3RICacrG52Ps2RWEGwu7B/IvXs+KJZJLJsrKFQ2Pqaxttbjx3kw==}
     engines: {node: '>= 18'}
@@ -1724,10 +1715,10 @@ packages:
     peerDependencies:
       vuepress: 2.0.0-rc.2
 
-  '@vuepress/plugin-revealjs@2.0.0-rc.47':
-    resolution: {integrity: sha512-RZc0VQbAT3mFH5IRoxlYIfCjEbEGACbFzX6N05cmT/NzqCdvIhiwr4+YVz1grbxvvOCz9XKee2cBmgmpVsUAhA==}
+  '@vuepress/plugin-revealjs@2.0.0-rc.76':
+    resolution: {integrity: sha512-Jj0iUY8x2EC4weRiZqyFRdEXMfN3sLOVb1CmeBUl/BO9XpE2GVahvm9tizvvBFVMEo6/Gm2MpiTh/zKojYlP+A==}
     peerDependencies:
-      vuepress: 2.0.0-rc.15
+      vuepress: 2.0.0-rc.19
 
   '@vuepress/plugin-rtl@2.0.0-rc.74':
     resolution: {integrity: sha512-T77zrw5htxe3uwjgqPKN1iU2zQlPnXl/YrQPVqIWEJJ4uNt93ZLyU892SiGWXNFMmqn8wes9PziCzBEAXqlKkQ==}
@@ -4773,12 +4764,6 @@ snapshots:
     optionalDependencies:
       markdown-it: 13.0.2
 
-  '@mdit/plugin-uml@0.13.1(markdown-it@13.0.2)':
-    dependencies:
-      '@types/markdown-it': 14.1.2
-    optionalDependencies:
-      markdown-it: 13.0.2
-
   '@mdit/plugin-uml@0.16.0(markdown-it@13.0.2)':
     dependencies:
       '@mdit/helper': 0.16.0(markdown-it@13.0.2)
@@ -5938,18 +5923,17 @@ snapshots:
       - '@vue/composition-api'
       - typescript
 
-  '@vuepress/plugin-revealjs@2.0.0-rc.47(markdown-it@13.0.2)(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13))':
+  '@vuepress/plugin-revealjs@2.0.0-rc.76(markdown-it@13.0.2)(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13))':
     dependencies:
-      '@mdit/plugin-uml': 0.13.1(markdown-it@13.0.2)
+      '@mdit/plugin-uml': 0.16.0(markdown-it@13.0.2)
       '@types/markdown-it': 14.1.2
       '@types/reveal.js': 5.0.5
-      '@vuepress/helper': 2.0.0-rc.47(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13))
-      '@vueuse/core': 11.3.0(vue@3.5.13)
+      '@vuepress/helper': 2.0.0-rc.74(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13))
+      '@vueuse/core': 12.5.0
       reveal.js: 5.1.0
       vue: 3.5.13
       vuepress: 2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13)
     transitivePeerDependencies:
-      - '@vue/composition-api'
       - markdown-it
       - typescript
 
@@ -8264,7 +8248,7 @@ snapshots:
     transitivePeerDependencies:
       - typescript
 
-  vuepress-theme-hope@2.0.0-rc.71(@vuepress/plugin-docsearch@2.0.0-rc.0(@algolia/client-search@5.20.1)(search-insights@2.17.3))(@vuepress/plugin-feed@2.0.0-rc.3(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13)))(@vuepress/plugin-prismjs@2.0.0-rc.0)(@vuepress/plugin-pwa@1.9.10)(@vuepress/plugin-revealjs@2.0.0-rc.47(markdown-it@13.0.2)(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13)))(@vuepress/plugin-search@1.9.10)(@vuepress/plugin-slimsearch@2.0.0-rc.61(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13)))(@vuepress/plugin-watermark@2.0.0-rc.27(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13)))(markdown-it@13.0.2)(sass-embedded@1.83.4)(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13)):
+  vuepress-theme-hope@2.0.0-rc.71(@vuepress/plugin-docsearch@2.0.0-rc.0(@algolia/client-search@5.20.1)(search-insights@2.17.3))(@vuepress/plugin-feed@2.0.0-rc.3(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13)))(@vuepress/plugin-prismjs@2.0.0-rc.0)(@vuepress/plugin-pwa@1.9.10)(@vuepress/plugin-revealjs@2.0.0-rc.76(markdown-it@13.0.2)(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13)))(@vuepress/plugin-search@1.9.10)(@vuepress/plugin-slimsearch@2.0.0-rc.61(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13)))(@vuepress/plugin-watermark@2.0.0-rc.27(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13)))(markdown-it@13.0.2)(sass-embedded@1.83.4)(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13)):
     dependencies:
       '@vuepress/helper': 2.0.0-rc.74(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13))
       '@vuepress/plugin-active-header-links': 2.0.0-rc.74(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13))
@@ -8309,7 +8293,7 @@ snapshots:
       '@vuepress/plugin-feed': 2.0.0-rc.3(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13))
       '@vuepress/plugin-prismjs': 2.0.0-rc.0
       '@vuepress/plugin-pwa': 1.9.10
-      '@vuepress/plugin-revealjs': 2.0.0-rc.47(markdown-it@13.0.2)(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13))
+      '@vuepress/plugin-revealjs': 2.0.0-rc.76(markdown-it@13.0.2)(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13))
       '@vuepress/plugin-search': 1.9.10
       '@vuepress/plugin-slimsearch': 2.0.0-rc.61(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13))
       '@vuepress/plugin-watermark': 2.0.0-rc.27(vuepress@2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19(@types/node@22.13.1)(sass-embedded@1.83.4))(vue@3.5.13))
