@@ -18,9 +18,9 @@ export const zhSidebar = sidebar({
     },
     "intro",
     {
-      text: "幻灯片",
+      text: "崇实学辅",
       icon: "person-chalkboard",
-      link: "https://ecosystem.vuejs.press/zh/plugins/markdown/revealjs/demo.html",
+      link: "https://csxf.online",
     },
   ],
 });

@@ -7,9 +7,7 @@ tag:
 ---
 
 # Resume 
-- [ ] 未完成的任务
-- [x] 已完成的任务
-- [ ] 待办事项
+
 ## Basic Information
 
 *   **Name:** 小Q (gongyunbo)

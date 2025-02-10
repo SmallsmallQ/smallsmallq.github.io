@@ -18,9 +18,9 @@ export const enSidebar = sidebar({
     },
     "intro",
     {
-      text: "Slides",
+      text: "Learning Guide",
       icon: "person-chalkboard",
-      link: "https://ecosystem.vuejs.press/plugins/markdown/revealjs/demo.html",
+      link: "https://csxf.online",
     },
   ],
 });
