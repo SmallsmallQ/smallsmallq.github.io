@@ -4,7 +4,6 @@ cover: /assets/images/cover3.jpg
 pin: true 
 tags:
     -intro
-sticky: true
 ---
 
 
