@@ -261,11 +261,11 @@ export default hopeTheme({
                  sizes: "192x192",
                  purpose: "maskable",
                  type: "image/png",
-               },
-             ],
-           },
-         ],
-       },
-     },
-  },
-});
+               }
+             ]
+           }
+         ]
+       }
+     }
+  }
+})
