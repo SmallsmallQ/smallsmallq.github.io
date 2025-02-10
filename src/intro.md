@@ -5,48 +5,56 @@ pin: true
 tags:
     - intro
 ---
-# Intro Page
-## Introduction
+# Introduction
 
-From Xiangyang, Hubei
+## About Me
 
-Atypical INTJ
+From Xiangyang, Hubei Province
 
-Loves movies, travel and food
+---
+icon: circle-info
+cover: /assets/images/cover3.jpg
+pin: true
+tag:
+    - Introduction
+---
 
-Law student
+# Resume
 
-Undergraduate student at Xi'an Jiaotong University
+## Basic Information
 
-Xiangyang Experimental Middle School, junior high school
+*   **Name:** 小Q (gongyunbo)
+*   **Location:** Xiangyang, Hubei
+*   **Type:** Atypical INTJ
+*   **Hobbies:** Movies, Travel, and Food
 
-The First Affiliated Middle School of Central China Normal University, senior high school
+## Education
 
-## Contact information
+*   **Undergraduate:** Xi'an Jiaotong University (Studying)
+*   **Middle School:** Xiangyang Experimental Middle School
+*   **High School:** The High School Affiliated to Central China Normal University
 
-WeChat: gongyunbo2005
-QQ: 3517516303
-Email: [gongyunbo@stu.xjtu.edu.cn](mailto:gongyunbo@stu.xjtu.edu.cn) [gongyunbo0119@outlook.com](mailto:gongyunbo0119@outlook.com)
-Bilibili: https://b23.tv/jijuPua
+## Contact
 
-Github: https://github.com/SmallsmallQ
+*   **WeChat:** gongyunbo2005
+*   **QQ:** 3517516303
+*   **Email:** [gongyunbo@stu.xjtu.edu.cn](mailto:gongyunbo@stu.xjtu.edu.cn), [gongyunbo0119@outlook.com](mailto:gongyunbo0119@outlook.com)
+*   **Bilibili:** [https://b23.tv/jijuPua](https://b23.tv/jijuPua)
+*   **Github:** [https://github.com/SmallsmallQ](https://github.com/SmallsmallQ)
 
-## A small article
+## Social Media
 
-In the surging waves, I ride a small boat and ripple. Through the small porthole, the distant mountains meet the sunset, and the houses are swaying by the flowing water. In the roar, swaying, swaying, entering the next dream of the bright moon and clouds.
+*   **Bilibili:** [我是小Q诶的个人空间](https://b23.tv/bkcGaXz) (My Bilibili Space)
+*   **Github:** [SmallsmallQ - Overview](https://github.com/SmallsmallQ)
 
-Day after day, life always moves along a fixed track, heading towards the distance where the end is invisible. After staying in one place for a long time, there is a definite answer about tomorrow. Although the life is comfortable and stable, the idea of ​​going out is like a weak electric current, which stirs your heart from time to time. "Go travel!" The voice in your heart calls, so you temporarily put aside the trivial matters at hand, look through the map or guide, or make a long list, or directly pack your bags and head towards the familiar unexplored place.
+## Self-Introduction
 
-…
+I'm from Xiangyang, Hubei Province, a law student at Xi'an Jiaotong University who loves movies, travel, and food.
 
-Life is also like a grand and long journey. Come to the world and experience the flavor of three autumns. Being swept up, following the torrent of the times, following the perfect life template step by step, chasing the image in the minds of others, just like chasing guides, rushing to check in at various attractions, coming in a hurry and leaving in a hurry. Heidegger said "Live towards death". At the end of the journey, looking back at the past, regret is inevitable for giving up what you want in your heart because of choosing the standards and mainstream advocated by others. It is better to follow your sincere heart, enjoy the scenery along the way, meet interesting people, and embark on this journey without regrets.
+## Works
 
-# My Media
+(You can put links to your good articles or projects here)
 
-## Bilibili
+## Motto
 
-[I am Xiao Q's personal space - I am Xiao Q's personal homepage - Bilibili video](https://b23.tv/bkcGaXz)
-
-## Github
-
-[SmallsmallQ - Overview](https://github.com/SmallsmallQ)
+It's better to follow your heart, appreciate the scenery along the way, meet interesting people, and embark on this journey without regrets.

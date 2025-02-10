@@ -9,7 +9,99 @@ tag:
 ## 简介
 
 来自 湖北 襄阳
+---
+icon: circle-info
+cover: /assets/images/cover3.jpg
+pin: true
+tag:
+    - 介绍
+---
 
+# 个人简历
+
+## 基本信息
+
+*   **姓名：** 小Q (gongyunbo)
+*   **所在地：** 湖北 襄阳
+*   **类型：** 非典型INTJ
+*   **爱好：** 电影、旅行与美食
+
+## 教育背景
+
+*   **本科：** 西安交通大学 （在读）
+*   **初中：** 襄阳市实验中学
+*   **高中：** 华中师范大学第一附属中学
+
+## 联系方式
+
+*   **微信：** gongyunbo2005
+*   **QQ：** 3517516303
+*   **邮箱：** [gongyunbo@stu.xjtu.edu.cn](mailto:gongyunbo@stu.xjtu.edu.cn), [gongyunbo0119@outlook.com](mailto:gongyunbo0119@outlook.com)
+*   **Bilibili：** [https://b23.tv/jijuPua](https://b23.tv/jijuPua)
+*   **Github：** [https://github.com/SmallsmallQ](https://github.com/SmallsmallQ)
+
+## 社交媒体
+
+*   **Bilibili：** [我是小Q诶的个人空间](https://b23.tv/bkcGaXz)
+*   **Github：** [SmallsmallQ - Overview](https://github.com/SmallsmallQ)
+
+## 自我介绍
+
+来自湖北襄阳，是一名热爱电影、旅行与美食的法学专业学生。目前就读于西安交通大学。
+
+## 作品
+
+（这里可以放你觉得不错的文章或者项目链接）
+
+## 座右铭
+
+不如追随赤诚之心吧，欣赏沿路的风景，认识有趣的人，无怨无愧地踏上这一段旅程。---
+icon: circle-info
+cover: /assets/images/cover3.jpg
+pin: true
+tag:
+    - 介绍
+---
+
+# 个人简历
+
+## 基本信息
+
+*   **姓名：** 小Q (gongyunbo)
+*   **所在地：** 湖北 襄阳
+*   **类型：** 非典型INTJ
+*   **爱好：** 电影、旅行与美食
+
+## 教育背景
+
+*   **本科：** 西安交通大学 （在读）
+*   **初中：** 襄阳市实验中学
+*   **高中：** 华中师范大学第一附属中学
+
+## 联系方式
+
+*   **微信：** gongyunbo2005
+*   **QQ：** 3517516303
+*   **邮箱：** [gongyunbo@stu.xjtu.edu.cn](mailto:gongyunbo@stu.xjtu.edu.cn), [gongyunbo0119@outlook.com](mailto:gongyunbo0119@outlook.com)
+*   **Bilibili：** [https://b23.tv/jijuPua](https://b23.tv/jijuPua)
+*   **Github：** [https://github.com/SmallsmallQ](https://github.com/SmallsmallQ)
+
+## 社交媒体
+
+*   **Bilibili：** [我是小Q诶的个人空间](https://b23.tv/bkcGaXz)
+*   **Github：** [SmallsmallQ - Overview](https://github.com/SmallsmallQ)
+
+## 自我介绍
+
+来自湖北襄阳，是一名热爱电影、旅行与美食的法学专业学生。目前就读于西安交通大学。
+
+## 作品
+
+（这里可以放你觉得不错的文章或者项目链接）
+
+## 座右铭
+
+不如追随赤诚之心吧，欣赏沿路的风景，认识有趣的人，无怨无愧地踏上这一段旅程。
 非典型INTJ
 
 热爱电影、旅行与美食
