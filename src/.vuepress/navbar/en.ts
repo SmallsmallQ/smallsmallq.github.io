@@ -48,5 +48,10 @@ export const enNavbar = navbar([
     text: "Chongshi Academic Support",
     icon: "book",
     link: "https://csxf.online/",
-  }
+  },
+  {
+    text: "About Me",
+    icon: "book",
+    link: "intro.html",
+  },
 ]);

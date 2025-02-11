@@ -8,7 +8,7 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "en-US",
-      title: "smallQ's Personal Website",
+      title: "SmallQ's Personal Website",
       description: "Welcome to my website!",
     },
     "/zh/": {
