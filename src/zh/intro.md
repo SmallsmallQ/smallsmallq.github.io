@@ -1,77 +1,96 @@
 ---
 title: 个人介绍
 icon: circle-info
-cover: /assets/images/cover3.jpg
 sticky: true
+home: true
+portfolio: true
+name: 龚运博
+avatar: /assets/images/myself.jpg
+bgImage: /assets/images/bg.jpg
 tag:
-    - 介绍
+  - 介绍
+titles:
+  - 法学(复合)专业学生
+  - 西安交通大学
+welcome: 欢迎来到我的个人主页
 ---
 
-<div class="profile-container" style="display: flex; gap: 2rem; align-items: flex-start;">
+## 👋 关于我
 
-<div class="profile-info" style="flex: 1;">
+我是一名就读于西安交通大学法学院的法学（复合）专业学生，对法律与科技的交叉领域充满热情。作为一名非典型INTJ人格的法学生，我善于将理性思维与创新精神相结合，在法律研究中运用科技手段探索新的可能性。
 
-## 基本信息
+## 📞 联系方式
 
-*   **姓名：** 龚运博
-*   **专业：** 法学(复合)2302班
-*   **所在地：** 湖北 襄阳
-*   **类型：** 非典型INTJ
-*   **爱好：** 电影、旅行与美食。飞友一位
+- **社交平台**
+  - <i class="fab fa-github"></i> GitHub: [SmallsmallQ](https://github.com/SmallsmallQ)
+  - <i class="fab fa-bilibili"></i> BiliBili: [我是小Q诶](https://b23.tv/bkcGaXz)
 
-## 教育背景
+- **即时通讯**
+  - <i class="fab fa-qq"></i> QQ: [3517516303](tencent://message/?uin=3517516303)
+  - <i class="fab fa-weixin"></i> WeChat: gongyunbo2005
 
-*   **本科：** 西安交通大学 （在读）
-*   **初中：** 襄阳市实验中学
-*   **高中：** 华中师范大学第一附属中学
+- **电子邮箱**
+  - <i class="fas fa-envelope"></i> 学校邮箱: [gongyunbo@stu.xjtu.edu.cn](mailto:gongyunbo@stu.xjtu.edu.cn)
 
-</div>
+## 📚 教育经历
 
-<div class="profile-photo" style="flex: 1; text-align: center;">
+- 🏛️ **西安交通大学** 法学(复合)专业（2023-至今）
+  - 🏅 **2023-2024年度国家奖学金获得者**
+  - 📊 综合成绩：班级排名 1/30，智育排名 2/84
+  - 🌟 大一学年共计15门课程90+，6门课程专业第一
+  - 🎯 CET4：635 CET6：566
+  - 💪 体测成绩：优秀
+  - 🔥 入党积极分子，党课成绩优秀
 
-::: center
-![个人照片](/assets/images/myself.jpg =300x)
+## 🏆 学术成果
+
+- **科研探索**
+  - 在薛华教授指导下，运用计算机自然语言处理技术，进行判决书实证研究
+  - 完成论文《司法大数据视角下校园欺凌民事案件的实证研究》
+  
+- **竞赛获奖**
+  - 🏆 全国新文科大赛 校赛一等奖(2项)
+  - 🎖️ 我为陕西品牌代言 省级三等奖
+  - 🌟 中国大学生创新创业大赛 省级立项(2项)
+  - ⚖️ 红十字会国际委员会人道主义法律竞赛 全国奖项
+
+## 💼 实践经历
+
+- **学生工作**
+  - 📋 招团办公室部部长：
+    - 协办校级高考招生动员大会及表彰大会
+    - 负责"校园大使"社会实践项目（全校最大）
+    - 管理近5000人新生群，负责新生引导工作
+  - 🏢 崇实书院宿生会干事
+  - 💻 班级科技委员
+
+- **志愿服务**
+  - ❤️ 累计志愿服务时长 140 小时
+  - 🌟 参与"千声助盲童 万心祝西藏"援藏志愿活动
+  - 💪 勤工俭学时长 130 小时
+
+## 🔧 技术特长
+
+- **编程技能**
+  - 💻 精通C、Python、JavaScript等编程语言
+  - 🌐 掌握网站开发与维护技术
+  - 📊 具备数据分析和自然语言处理能力
+
+- **艺术特长**
+  - 🎭 军训歌咏比赛指挥，带领连队获得校三等奖
+  - 🎻 擅长二胡演奏，多次在兴庆宫演出
+  - 📸 摄影作品获西安交通大学金秋梧桐节摄影大赛奖项
+  - 🏃‍♂️ 积极参加"西迁健康跑"等体育活动
+
+## 🌟 个人特色
+
+- 跨界融合：将法律思维与技术创新相结合
+- 自主学习：持续探索法律科技的前沿领域
+- 团队协作：具备出色的组织和管理能力
+- 多元发展：在学术、艺术、科技等多个领域均有建树
+
+---
+
+::: info 
+非典型的法学生，致力于探索法律与科技的创新融合。秉持"明德致用"校训，以跨学科视野推动法律科技发展。
 :::
-
-</div>
-
-</div>
-
-## 学术及奖项
-* **奖项荣誉：** 2023-2024年度国家奖学金
-    * 综合成绩：班级排名 1/30，智育排名 2/84
-    * CET4：635 CET6：566
-    * 体测成绩：优秀
-* 全国新文科大赛 校赛一等奖x2
-* 我为陕西品牌代言 省级三等奖
-* 中国大学生创新创业大赛，获2项省级立项
-* 参加法治陕西论坛，代表西安交通大学参会
-* 红十字会国际委员会人道主义法律竞赛 全国奖项
-
-## 学生工作
-* 招团办公室部部长
-* 崇实书院宿生会干事
-* 班级科技委员
-
-## 联系方式
-
-*   **微信：** gongyunbo2005
-*   **QQ：** 3517516303
-*   **邮箱：** [gongyunbo@stu.xjtu.edu.cn](mailto:gongyunbo@stu.xjtu.edu.cn), [gongyunbo0119@outlook.com](mailto:gongyunbo0119@outlook.com)
-*   **Github：** [https://github.com/SmallsmallQ](https://github.com/SmallsmallQ)
-
-## 社交媒体
-
-*   **Bilibili：** [我是小Q诶的个人空间](https://b23.tv/bkcGaXz)
-*   **Github：** [SmallsmallQ - Overview](https://github.com/SmallsmallQ)
-
-## 自我介绍
-
-来自湖北襄阳，是一名热爱电影、旅行与美食的法学专业学生。目前就读于西安交通大学。
-
-## 技术与艺术
-
-* 精通C、Python、JavaScript、等编程语言
-* 军训歌咏比赛指挥，获得校三等奖
-* 擅长二胡演奏，多次在兴庆宫演出
-* 摄影作品获西安交通大学金秋梧桐节摄影大赛奖项
