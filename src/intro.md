@@ -39,12 +39,14 @@ I am a law student at Xi'an Jiaotong University with a passionate interest in th
   - 🏆 First Prize in University New Liberal Arts Competition (2 awards)
   - 🎖️ Provincial Third Prize in "Brand Ambassador for Shaanxi"
   - 🌟 Provincial Grant in China College Students' Innovation Competition (2 projects)
+  - 🏅 Grand Prize in "Understanding Modern China" English Competition
   - ⚖️ National Award in ICRC International Humanitarian Law Competition
 
 ## 💼 Professional Experience
 
 - **Student Leadership**
   - 📋 Director of Admission Publicity Office:
+    - 🌟 Outstanding Individual of Student Recruitment in Xi'an Jiaotong University
     - Co-organized university-level admission events
     - Managed largest campus ambassador program
     - Supervised orientation group of 5000+ freshmen
