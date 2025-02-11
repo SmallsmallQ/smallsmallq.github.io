@@ -193,13 +193,9 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
-
-    components: ["Badge", "VPCard"],
-
-    markdown: {
-      tasklist: true
+    components: {
+      components: ["Badge", "VPCard"]
     },
-
     icon: {
       prefix: "fa6-solid:"
     },

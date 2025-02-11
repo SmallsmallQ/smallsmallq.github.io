@@ -45,8 +45,8 @@ export const zhNavbar = navbar([
     ],
   },
   {
-    text: "V2 文档",
+    text: "崇实学辅",
     icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
+    link: "https://csxf.online/",
   },
 ]);
