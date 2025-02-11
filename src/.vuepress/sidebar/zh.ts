@@ -16,6 +16,12 @@ export const zhSidebar = sidebar({
       prefix: "posts/",
       children: "structure",
     },
+    {
+      text: "Legal Study",
+      icon: "book",
+      prefix: "legal/",
+      children: "structure",
+    },
     "intro",
     {
       text: "崇实学辅",

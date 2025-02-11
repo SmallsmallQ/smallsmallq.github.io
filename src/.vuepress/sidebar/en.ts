@@ -16,6 +16,12 @@ export const enSidebar = sidebar({
       prefix: "posts/",
       children: "structure",
     },
+    {
+      text: "Legal Study",
+      icon: "book",
+      prefix: "legal/",
+      children: "structure",
+    },
     "intro",
     {
       text: "Learning Guide",
