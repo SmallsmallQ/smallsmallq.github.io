@@ -2,7 +2,7 @@
   "name": "website",
   "description": "My personal website",
   "version": "0.0.1",
-  "license": "MIT",
+  "license": "CC BY-NC-SA 4.0",
   "type": "module",
   "scripts": {
     "docs:build": "vuepress-vite build src",
