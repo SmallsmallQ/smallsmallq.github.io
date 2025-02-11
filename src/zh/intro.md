@@ -6,7 +6,7 @@ home: true
 portfolio: true
 name: 龚运博
 avatar: /assets/images/myself.jpg
-bgImage: /assets/images/bg.jpg
+bgImage: /assets/images/1.jpg
 tag:
   - 介绍
 titles:
@@ -92,5 +92,5 @@ welcome: 欢迎来到我的个人主页
 ---
 
 ::: info 
-非典型的法学生，致力于探索法律与科技的创新融合。秉持"明德致用"校训，以跨学科视野推动法律科技发展。
+非典型的法学生，致力于探索法律与科技的创新融合。秉持"精勤求学，敦笃励志，果毅力行，忠恕任事"校训，以跨学科视野推动法律科技发展。
 :::

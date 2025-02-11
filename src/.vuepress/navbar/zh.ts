@@ -49,4 +49,9 @@ export const zhNavbar = navbar([
     icon: "book",
     link: "https://csxf.online/",
   },
+  {
+    text: "关于我",
+    icon: "book",
+    link: "zh/intro.html",
+  },
 ]);
