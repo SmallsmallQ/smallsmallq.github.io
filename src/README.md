@@ -2,16 +2,16 @@
 home: true
 layout: BlogHome
 icon: house
-title: Smallq's Personal Website
+title: SmallQ's Personal Website
 heroImage: https://i.postimg.cc/zvQ41bSP/logo.png
 heroText: Smallq's Personal Website
 tagline: Welcome to my website!
 heroFullScreen: true
 projects:
   - icon: folder-open
-    name: project name
-    desc: project detailed description
-    link: https://your.project.link
+    name: Legal Studies
+    desc: My legal study notes
+    link: /legal study/
 
   - icon: link
     name: link name

@@ -1,7 +1,6 @@
 ---
 icon: circle-info
 cover: /assets/images/cover3.jpg
-sticky: true
 home: true
 portfolio: true
 name: Yunbo Gong
