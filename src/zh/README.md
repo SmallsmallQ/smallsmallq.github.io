@@ -41,10 +41,10 @@ projects:
 
 
 
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: 自定义项目
-    desc: 自定义详细介绍
-    link: https://你的自定义链接
+  - icon: https://i.postimg.cc/DZm9Y10t/image.png
+    name: 关于我
+    desc: 欢迎查看作者的简介！
+    link: https://www.smallq.top/zh/intro.html
 
 footer: 西安交通大学法学生
 ---

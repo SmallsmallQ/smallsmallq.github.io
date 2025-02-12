@@ -38,10 +38,11 @@ projects:
     desc: Articles related to law, social sciences, and computer science.
     link: https://your-article-link
 
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: Custom Project
-    desc: Detailed custom introduction.
-    link: https://your-custom-link
+  - icon: https://i.postimg.cc/DZm9Y10t/image.png
+    name: About Me
+    desc: Welcome to view the author's profile!
+    link: https://www.smallq.top/intro.html
+
 
 footer: law student from Xi'an Jiaotong University
 ---
