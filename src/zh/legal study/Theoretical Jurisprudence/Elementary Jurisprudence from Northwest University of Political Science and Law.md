@@ -1,4 +1,5 @@
 ---
+title: 初级法理学
 Status: DOING
 Type: 笔记
 Author: 西北政法大学
@@ -13,8 +14,6 @@ RelatedFiles:
 createTime: 2024-12-06T00:50:54
 updateTime: 2024-12-06T00:50:51
 ---
-[[D901 立法理论]]
-
 # 第一章 绪论
 
 ## 第一节 法理学的对象、性质和方法

@@ -14,7 +14,7 @@ projects:
     link: https://jwc.xjtu.edu.cn/
     
   - icon: https://i.postimg.cc/43hcbY3v/24-E807-EDBA14-DB4719-FE3-F934-AE810-C2.png
-    name: 崇实书院
+    name: 崇实学辅
     desc: 崇实书院学业辅导中心，为学生提供学习资料及学业辅导
     link: https://csxf.online/
 
@@ -24,10 +24,10 @@ projects:
     link: https://chat.deepseek.com/
 
 
-  - icon: folder-open
+  - icon: scale-balanced
     name: 法学笔记
     desc: 这个我的法学笔记分享
-    link: https://你的项目链接
+    link: https://www.smallq.top/zh/legal%20study/
 
   - icon: book
     name: 书籍名称
