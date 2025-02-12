@@ -18,9 +18,18 @@ export const zhSidebar = sidebar({
     },
     {
       text: "法律学习",
-      icon: "book",
-      prefix: "legal study",
-      children: "structure",
+      icon: "scale-balanced",
+      prefix: "legal study/",
+      link: "legal study/",
+      children: [
+        {
+          text: "法理学",  // 显示中文名称
+          prefix: "Jurisprudence/", // 保持英文目录名
+          link: "Jurisprudence/",
+          collapsible: true,
+          children: "structure",
+        },
+      ],
     },
     "intro",
     {

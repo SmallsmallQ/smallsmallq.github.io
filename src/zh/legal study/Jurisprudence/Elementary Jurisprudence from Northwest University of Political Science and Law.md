@@ -1,5 +1,5 @@
 ---
-title: 初级法理学
+title: 法理学 西北政法大学
 Status: DOING
 Type: 笔记
 Author: 西北政法大学

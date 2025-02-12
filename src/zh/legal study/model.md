@@ -1,16 +1,17 @@
 ---
-title: 法律笔记 - [笔记主题]
+title: 笔记主题设置
+index: false
 cover: /assets/images/law_notes_cover.jpg  # 替换为你的封面图片
 icon: scale-balanced  # 使用 Font Awesome 图标，可以替换
 order: [数字]  # 侧边栏顺序
 author: 龚运博 (SmallQ)
-date: [2025-02-12]  # 笔记编写日期
+date: 2025-02-12  # 笔记编写日期
 category:
   - 法律笔记
 tag:
-  - [笔记主题]
-  - 法律
-  - [其他相关标签]
+    - law
+    - study
+    - note
 sticky: false  # 是否置顶
 star: false  # 是否星标
 footer: 法律笔记分享 - 龚运博

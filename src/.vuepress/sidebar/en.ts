@@ -4,7 +4,7 @@ export const enSidebar = sidebar({
   "/": [
     "",
     {
-      text: "Demo",
+      text: "Guide",
       icon: "laptop-code",
       prefix: "demo/",
       link: "demo/",
@@ -18,9 +18,18 @@ export const enSidebar = sidebar({
     },
     {
       text: "Legal Study",
-      icon: "book",
-      prefix: "legal/",
-      children: "structure",
+      icon: "scale-balanced",
+      prefix: "legal study/",
+      link: "legal study/",
+      children: [
+        {
+          text: "Jurisprudence",  // English display name
+          prefix: "Jurisprudence/", // Keep the same folder name
+          link: "Jurisprudence/",
+          collapsible: true,
+          children: "structure",
+        },
+      ],
     },
     "intro",
     {

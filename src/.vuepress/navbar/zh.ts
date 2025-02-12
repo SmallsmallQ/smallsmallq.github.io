@@ -2,56 +2,27 @@ import { navbar } from "vuepress-theme-hope";
 
 export const zhNavbar = navbar([
   "/zh/",
-  "/zh/demo/",
   {
-    text: "博文",
-    icon: "pen-to-square",
-    prefix: "/zh/posts/",
+    text: "法律学习",
+    icon: "scale-balanced",
+    prefix: "/zh/legal study/",
     children: [
       {
-        text: "苹果",
-        icon: "pen-to-square",
-        prefix: "apple/",
-        children: [
-          { text: "苹果1", icon: "pen-to-square", link: "1" },
-          { text: "苹果2", icon: "pen-to-square", link: "2" },
-          "3",
-          "4",
-        ],
+        text: "法理学",
+        icon: "book",
+        link: "Jurisprudence/",
       },
-      {
-        text: "香蕉",
-        icon: "pen-to-square",
-        prefix: "banana/",
-        children: [
-          {
-            text: "香蕉 1",
-            icon: "pen-to-square",
-            link: "1",
-          },
-          {
-            text: "香蕉 2",
-            icon: "pen-to-square",
-            link: "2",
-          },
-          "3",
-          "4",
-        ],
-      },
-      { text: "樱桃", icon: "pen-to-square", link: "cherry" },
-      { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
-      "tomato",
-      "strawberry",
+      // 可以继续添加其他法律课程
     ],
   },
   {
     text: "崇实学辅",
-    icon: "book",
+    icon: "person-chalkboard",
     link: "https://csxf.online/",
   },
   {
     text: "关于我",
-    icon: "book",
-    link: "zh/intro.html",
+    icon: "user",
+    link: "/zh/intro.html",
   },
 ]);
