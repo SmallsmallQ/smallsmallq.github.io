@@ -8,8 +8,10 @@ Category: 法律
 Area: "[[area_法律笔记.components|法律笔记]]"
 Score: 94
 Period: 大一上
-tags:
-  - 法律/法理学
+tag:
+  - 法律
+  - 笔记
+  - 学习
 RelatedFiles: 
 createTime: 2024-12-06T00:50:54
 updateTime: 2024-12-06T00:50:51
