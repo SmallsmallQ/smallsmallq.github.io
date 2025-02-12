@@ -1,7 +1,6 @@
 ---
 title: 个人介绍
 icon: circle-info
-sticky: true
 home: true
 portfolio: true
 name: 龚运博

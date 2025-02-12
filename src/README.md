@@ -8,41 +8,40 @@ heroText: Smallq's Personal Website
 tagline: Welcome to my website!
 heroFullScreen: true
 projects:
-  - icon: folder-open
-    name: Legal Studies
-    desc: My legal study notes
-    link: /legal study/
+  - icon: http://vi.xjtu.edu.cn/images/a3-2jdxhblue.png
+    name: XJTU Academic Affairs Office
+    desc: Official website of the Academic Affairs Office, providing access to the academic management system, attendance system, student affairs system, etc.
+    link: https://jwc.xjtu.edu.cn/
+    
+  - icon: https://i.postimg.cc/43hcbY3v/24-E807-EDBA14-DB4719-FE3-F934-AE810-C2.png
+    name: ChongShi College
+    desc: Academic Counseling Center of Chongshi College, providing students with learning materials and academic guidance.
+    link: https://csxf.online/
 
-  - icon: link
-    name: link name
-    desc: link detailed description
-    link: https://link.address
+  - icon: https://registry.npmmirror.com/@lobehub/icons-static-png/1.19.0/files/dark/deepseek-color.png
+    name: DeepSeek
+    desc: Official website for DeepSeek model dialogue.
+    link: https://chat.deepseek.com/
+
+  - icon: folder-open
+    name: Legal Notes
+    desc: Sharing of my legal notes.
+    link: https://your-project-link
 
   - icon: book
-    name: book name
-    desc: Detailed description of the book
-    link: https://link.to.your.book
+    name: Book Title
+    desc: Detailed description of the book.
+    link: https://your-book-link
 
   - icon: newspaper
-    name: article name
-    desc: Detailed description of the article
-    link: https://link.to.your.article
-
-  - icon: user-group
-    name: friend name
-    desc: Detailed description of friend
-    link: https://link.to.your.friend
+    name: Article Sharing
+    desc: Articles related to law, social sciences, and computer science.
+    link: https://your-article-link
 
   - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: custom item
-    desc: Detailed description of this custom item
-    link: https://link.to.your.friend
+    name: Custom Project
+    desc: Detailed custom introduction.
+    link: https://your-custom-link
 
-footer: A law student from Xi'an Jiaotong University
+footer: law student from Xi'an Jiaotong University
 ---
-
-This is a blog home page demo.
-
-To use this layout, you should set both `layout: BlogHome` and `home: true` in the page front matter.
-
-For related configuration docs, please see [blog homepage](https://theme-hope.vuejs.press/guide/blog/home.html).
