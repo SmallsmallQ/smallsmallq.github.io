@@ -4,8 +4,8 @@ index: false
 category:
   - Navigation
 ---
+Due to the main course language is Chinese, so the main contents are written in Chinese.
 
-# Jurisprudence
 
 Welcome to the Jurisprudence study section! Here you'll find notes on jurisprudential theories, concepts, and analysis.
 
