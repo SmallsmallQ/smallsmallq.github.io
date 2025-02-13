@@ -77,6 +77,7 @@ I am a law student at Xi'an Jiaotong University with a passionate interest in th
 - Team Collaboration: Excellence in organization and management
 - Diverse Development: Achievements across academic, artistic, and technical fields
 
+
 ---
 
 ::: info
