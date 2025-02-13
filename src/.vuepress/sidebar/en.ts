@@ -43,8 +43,8 @@ export const enSidebar = sidebar({
         {
           text: "Commercial Law",
           icon: "building-columns",
-          prefix: "commercial-law/",
-          link: "commercial-law/",
+          prefix: "Business Law/",
+          link: "Business Law/",
           collapsible: true,
           children: "structure",
         }

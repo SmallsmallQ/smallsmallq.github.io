@@ -26,28 +26,43 @@ export const zhSidebar = sidebar({
           children: [
             {
               text: "民法总论",
-              prefix: "General Principles of Civil Law/",
-              link: "General Principles of Civil Law/",
+              prefix: "Civil Law/General Principles of Civil Law/",
+              link: "Civil Law/General Principles of Civil Law/",
               collapsible: true,
               children: "structure",
             },
             {
               text: "民法分论",
-              prefix: "Civil Law Discourse/",
-              link: "Civil Law Discourse/",
+              prefix: "Civil Law/Civil Law Discourse/",
+              link: "Civil Law/Civil Law Discourse/",
               collapsible: true,
               children: "structure",
-            }
+            },
           ],
         },
         {
           text: "商法",
           icon: "building-columns",
-          prefix: "commercial-law/",
-          link: "commercial-law/",
+          prefix: "Business Law/",
+          link: "Business Law/",
           collapsible: true,
-          children: "structure",
-        }
+          children: [
+            {
+              text: "公司法",
+              prefix: "Business Law/Company Law/",
+              link: "Business Law/Company Law/",
+              collapsible: true,
+              children: "structure",
+            },
+            {
+              text: "合同法",
+              prefix: "Business Law/Contract Law/",
+              link: "Business Law/Contract Law/",
+              collapsible: true,
+              children: "structure",
+            },
+          ],
+        },
       ],
     },
     {

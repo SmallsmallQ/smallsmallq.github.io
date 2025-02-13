@@ -2,9 +2,9 @@
 # 这是文章的标题
 title: 页面配置
 # 你可以自定义封面图片
-cover: /assets/images/cover1.jpg
 # 这是页面的图标
 icon: file
+index: false
 # 这是侧边栏的顺序
 order: 4
 # 设置作者

@@ -9,10 +9,28 @@ export const zhNavbar = navbar([
     children: [
       {
         text: "法理学",
-        icon: "book",
+        icon: "gavel",
         link: "Jurisprudence/",
       },
-      // 可以继续添加其他法律课程
+      {
+        text: "民法",
+        icon: "book-open",
+        link: "Civil Law/",
+      },
+      {
+        text: "商法",
+        icon: "building-columns",
+        children: [
+          {
+            text: "公司法",
+            link: "Business Law/Company Law/",
+          },
+          {
+            text: "合同法",
+            link: "Business Law/Contract Law/",
+          },
+        ],
+      },
     ],
   },
   {
