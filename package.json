@@ -12,11 +12,9 @@
   },
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.19",
-    "@vuepress/core": "2.0.0-rc.19",
     "@vuepress/plugin-comment": "2.0.0-rc.74",
     "@vuepress/plugin-pwa": "2.0.0-rc.19",
     "@vuepress/plugin-revealjs": "2.0.0-rc.76",
-    "@vuepress/shared": "2.0.0-rc.19",
     "chart.js": "^4.4.7",
     "sass-embedded": "^1.83.0",
     "vue": "^3.5.13",

@@ -10,51 +10,39 @@ export const zhNavbar = navbar([
       {
         text: "法理学",
         icon: "gavel",
-        link: "Jurisprudence/",
-      },
-      {
-        text: "民法",
-        icon: "book-open",
-        link: "Civil Law/",
-      },
-      {
-        text: "商法",
-        icon: "building-columns",
         children: [
-          {
-            text: "公司法",
-            link: "Business Law/Company Law/",
-          },
-          {
-            text: "合同法",
-            link: "Business Law/Contract Law/",
-          },
-        ],
+          { text: "基础法理学", link: "Jurisprudence/Elementary Jurisprudence" },
+          { text: "西政法理学", link: "Jurisprudence/Elementary Jurisprudence from Northwest University of Political Science and Law" }
+        ]
       },
-    ],
+      {
+        text: "民商法",
+        icon: "book-open",
+        children: [
+          { text: "民法总论", link: "Civil Law/General Principles of Civil Law" },
+          { text: "民法分论", link: "Civil Law/Civil Law Discourse" },
+          { text: "公司法", link: "Business Law/Company Law/Company Law" }
+        ]
+      }
+    ]
   },
   {
     text: "社会实践",
-    icon: "fa-users",
+    icon: "users",
+    prefix: "/zh/social practice/",
     children: [
-      {
-        text: "项目信息",
-        link: "/zh/social practice/basic info.md",
-      },
-      {
-        text: "项目报告",
-        link: "/zh/social practice/writing.md",
-      },
-    ],
+      { text: "项目信息", link: "basic info" },
+      { text: "项目报告", link: "writing" }
+    ]
   },
   {
     text: "崇实学辅",
     icon: "person-chalkboard",
-    link: "https://csxf.online/",
+    link: "https://csxf.online"
   },
   {
     text: "关于我",
     icon: "user",
-    link: "/zh/intro.html",
-  },
+    link: "/zh/intro"
+  }
 ]);
