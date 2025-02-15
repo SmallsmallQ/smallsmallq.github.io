@@ -34,6 +34,20 @@ export const zhNavbar = navbar([
     ],
   },
   {
+    text: "社会实践",
+    icon: "fa-users",
+    children: [
+      {
+        text: "项目信息",
+        link: "/zh/social practice/basic info.md",
+      },
+      {
+        text: "项目报告",
+        link: "/zh/social practice/writing.md",
+      },
+    ],
+  },
+  {
     text: "崇实学辅",
     icon: "person-chalkboard",
     link: "https://csxf.online/",

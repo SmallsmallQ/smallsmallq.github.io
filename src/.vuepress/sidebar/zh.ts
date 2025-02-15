@@ -66,6 +66,23 @@ export const zhSidebar = sidebar({
       ],
     },
     {
+      text: "社会实践",
+      icon: "fa-users", // 使用 Font Awesome 图标
+      prefix: "social practice/",
+      link: "social practice/basic info", // 指向 basic info.md
+      collapsible: true,
+      children: [
+        {
+          text: "项目信息",
+          link: "social practice/basic info.md",
+        },
+        {
+          text: "项目报告",
+          link: "social practice/writing.md",
+        },
+      ],
+    },
+    {
       text: "崇实学辅",
       icon: "person-chalkboard",
       link: "https://csxf.online",
