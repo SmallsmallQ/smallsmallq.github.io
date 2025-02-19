@@ -155,19 +155,16 @@ export default hopeTheme({
     tasklist: true,
     vPre: true,
 
-    // uncomment these if you need TeX support
-    // math: {
-    //   // install katex before enabling it
-    //   type: "katex",
-    //   // or install mathjax-full before enabling it
-    //   type: "mathjax",
-    // },
+    // 启用 TeX 支持
+    math: {
+      type: "katex",  // 使用 KaTeX 作为数学公式渲染器
+    },
 
     // install chart.js before enabling it
     // chartjs: true,
 
     // install echarts before enabling it
-    // echarts: true,
+     echarts: true,
 
     // install flowchart.ts before enabling it
     // flowchart: true,
