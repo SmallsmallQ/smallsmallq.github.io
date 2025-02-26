@@ -6,8 +6,8 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "文档演示",
-  description: "vuepress-theme-hope 的文档演示",
+  title: "小Q的网站",
+  description: "这里是小Q的个人网站，记录了小Q的学习笔记，生活随笔，以及一些个人的想法",
 
   theme,
 
