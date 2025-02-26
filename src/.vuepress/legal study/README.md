@@ -10,9 +10,9 @@ bgImageStyle:
 heroText: 小Q的个人网站
 tagline: 一个非典型法学生
 actions:
-  - text: 使用指南
-    icon: lightbulb
-    link: ./demo/
+  - text: 关于我
+    icon: student
+    link: README.md
     type: primary
 
   - text: 文档
