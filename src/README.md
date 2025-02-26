@@ -10,13 +10,14 @@ bgImageStyle:
 heroText: 小Q的个人网站
 tagline: 一个非典型法学生
 actions:
-  - text: 使用指南
-    icon: lightbulb
-    link: ./demo/
+  - text: 关于我
+    icon: person
+    link: portfolio.md
     type: primary
 
-  - text: 文档
-    link: ./guide/
+  - text: Github
+    icon: /assets/image/github.svg
+    link: https://github.com/smallsmallq
 
 highlights:
   - header: 易于安装
