@@ -28,7 +28,7 @@ features:
     link: https://csxf.online/
 
   - title: DeepSeek
-    icon: https://registry.npmmirror.com/@lobehub/icons-static-png/1.19.0/files/dark/
+    icon: https://registry.npmmirror.com/@lobehub/icons-static-png/1.19.0/files/dark/deepseek-color.png
     details: 深度求索DeepSeek模型对话官方网站。
     link: /guide/features/
 
