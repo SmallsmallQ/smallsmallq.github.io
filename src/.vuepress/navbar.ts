@@ -2,42 +2,30 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
+  "/portfolio",
+  "/demo/",
   {
-    text: "法律学习",
-    icon: "scale-balanced",
-    prefix: "legal study/",
+    text: "指南",
+    icon: "lightbulb",
+    prefix: "/guide/",
     children: [
       {
-        text: "法理学",
-        icon: "gavel",
-        children: [
-          { text: "基础法理学", link: "Jurisprudence/Elementary Jurisprudence" },
-          { text: "西政法理学", link: "Jurisprudence/Elementary Jurisprudence from Northwest University of Political Science and Law" }
-        ]
+        text: "Bar",
+        icon: "lightbulb",
+        prefix: "bar/",
+        children: ["baz", { text: "...", icon: "ellipsis", link: "" }],
       },
       {
-        text: "民商法",
-        icon: "book-open",
-        children: [
-          { text: "民法总论", link: "Civil Law/General Principles of Civil Law" },
-          { text: "民法分论", link: "Civil Law/Civil Law Discourse" },
-          { text: "公司法", link: "Business Law/Company Law/Company Law" }
-        ]
-      }
-    ]
+        text: "Foo",
+        icon: "lightbulb",
+        prefix: "foo/",
+        children: ["ray", { text: "...", icon: "ellipsis", link: "" }],
+      },
+    ],
   },
   {
-    text: "社会实践",
-    icon: "users",
-    prefix: "social practice/",
-    children: [
-      { text: "项目信息", link: "basic info" },
-      { text: "项目报告", link: "writing" }
-    ]
+    text: "V2 文档",
+    icon: "book",
+    link: "https://theme-hope.vuejs.press/zh/",
   },
-  {
-    text: "个人简历",
-    icon: "id-card",
-    link: "/intro.html",
-  }
 ]);
