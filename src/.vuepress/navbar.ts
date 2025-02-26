@@ -44,7 +44,11 @@ export default navbar([
     text: "关于我",
     icon: "user",
 <<<<<<< HEAD
+<<<<<<< HEAD
     link: "/intro"
+=======
+    link: "/zh/intro"
+>>>>>>> parent of 4e6452f (update infos)
 =======
     link: "/zh/intro"
 >>>>>>> parent of 4e6452f (update infos)
