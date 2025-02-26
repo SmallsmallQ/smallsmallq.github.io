@@ -43,6 +43,6 @@ export default navbar([
   {
     text: "关于我",
     icon: "user",
-    link: "/zh/intro"
+    link: "/intro"
   }
 ]);
