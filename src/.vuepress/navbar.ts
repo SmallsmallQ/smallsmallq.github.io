@@ -34,23 +34,5 @@ export default navbar([
       { text: "项目信息", link: "basic info" },
       { text: "项目报告", link: "writing" }
     ]
-  },
-  {
-    text: "崇实学辅",
-    icon: "person-chalkboard",
-    link: "https://csxf.online"
-  },
-  {
-    text: "关于我",
-    icon: "user",
-<<<<<<< HEAD
-<<<<<<< HEAD
-    link: "/intro"
-=======
-    link: "/zh/intro"
->>>>>>> parent of 4e6452f (update infos)
-=======
-    link: "/zh/intro"
->>>>>>> parent of 4e6452f (update infos)
   }
 ]);
