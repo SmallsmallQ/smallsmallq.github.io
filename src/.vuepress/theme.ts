@@ -1,5 +1,5 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import type { IconOptions } from "@vuepress/plugin-icon";
+// import type { IconOptions } from "@vuepress/plugin-icon";
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
@@ -71,11 +71,7 @@ export default hopeTheme({
   },
 
   // 加密配置
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": "1234",
-    },
-  },
+
 
   // 多语言配置
   metaLocales: {
@@ -114,21 +110,11 @@ export default hopeTheme({
     // stylize: true
   },
 
-  // 使用 Font Awesome 6 图标
-  iconAssets: "fontawesome-with-brands",
-  // 前缀配置
-  iconPrefix: "fa6-solid fa-",
-
   // 在这里配置主题提供的插件
   plugins: {
     blog: true,
     components: {
       components: ["Badge", "VPCard"],
-    },
-    // 添加 icon 配置
-    icon: {
-      iconAssets: "fontawesome-with-brands",
-      iconPrefix: "fa6-solid fa-",
-    },
+    }
   },
 });
