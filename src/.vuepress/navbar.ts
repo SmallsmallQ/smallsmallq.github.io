@@ -1,7 +1,7 @@
 import { navbar } from "vuepress-theme-hope";
 
-export const zhNavbar = navbar([
-  "/zh/",
+export default navbar([
+  "/",
   {
     text: "法律学习",
     icon: "scale-balanced",

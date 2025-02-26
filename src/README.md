@@ -2,47 +2,50 @@
 home: true
 layout: BlogHome
 icon: house
-title: SmallQ's Personal Website
+title: 小Q的个人网站
 heroImage: https://i.postimg.cc/zvQ41bSP/logo.png
-heroText: Smallq's Personal Website
-tagline: Welcome to my website!
+heroText: 小Q的个人网站
 heroFullScreen: true
+tagline: 欢迎来到我的小站！
 projects:
   - icon: http://vi.xjtu.edu.cn/images/a3-2jdxhblue.png
-    name: XJTU Academic Affairs Office
-    desc: Official website of the Academic Affairs Office, providing access to the academic management system, attendance system, student affairs system, etc.
+    name: 西安交大教务处
+    desc: 教务处官方官网，由此可进入教务系统、考勤系统，学工系统等
     link: https://jwc.xjtu.edu.cn/
     
   - icon: https://i.postimg.cc/43hcbY3v/24-E807-EDBA14-DB4719-FE3-F934-AE810-C2.png
-    name: ChongShi College
-    desc: Academic Counseling Center of Chongshi College, providing students with learning materials and academic guidance.
+    name: 崇实学辅
+    desc: 崇实书院学业辅导中心，为学生提供学习资料及学业辅导
     link: https://csxf.online/
 
   - icon: https://registry.npmmirror.com/@lobehub/icons-static-png/1.19.0/files/dark/deepseek-color.png
     name: DeepSeek
-    desc: Official website for DeepSeek model dialogue.
+    desc: 深度求索DeepSeek模型对话官方网站
     link: https://chat.deepseek.com/
 
-  - icon: folder-open
-    name: Legal Notes
-    desc: Sharing of my legal notes.
-    link: https://your-project-link
+
+  - icon: scale-balanced
+    name: 法学笔记
+    desc: 这个我的法学笔记分享
+    link: https://www.smallq.top/zh/legal%20study/
 
   - icon: book
-    name: Book Title
-    desc: Detailed description of the book.
-    link: https://your-book-link
+    name: 书籍名称
+    desc: 书籍详细描述
+    link: https://你的书籍链接
 
   - icon: newspaper
-    name: Article Sharing
-    desc: Articles related to law, social sciences, and computer science.
-    link: https://your-article-link
+    name: 文章分享
+    desc: 关于法学等社会科学及计算机科学相关文章
+    link: https://你的文章链接
+
+
 
   - icon: https://i.postimg.cc/DZm9Y10t/image.png
-    name: About Me
-    desc: Welcome to view the author's profile!
-    link: https://www.smallq.top/intro.html
+    name: 关于我
+    desc: 欢迎查看作者的简介！
+    link: https://www.smallq.top/zh/intro.html
 
-
-footer: law student from Xi'an Jiaotong University
+footer: 西安交通大学法学生
 ---
+

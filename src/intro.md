@@ -1,85 +1,97 @@
 ---
+title: 个人介绍
 icon: circle-info
-cover: /assets/images/cover3.jpg
 home: true
 portfolio: true
-name: Yunbo Gong
+name: 龚运博
 avatar: /assets/images/myself.jpg
 bgImage: /assets/images/1.jpg
 tag:
-  - intro
+  - 介绍
 titles:
-  - Law Student (Interdisciplinary Program)
-  - Xi'an Jiaotong University
-welcome: Welcome to My Personal Page
+  - 法学(复合)专业学生
+  - 西安交通大学
+welcome: 欢迎来到我的个人主页
 ---
 
-## 👋 About Me
+## 👋 关于我
 
-I am a law student at Xi'an Jiaotong University with a passionate interest in the intersection of law and technology. As an atypical INTJ personality type, I excel at combining rational thinking with innovative spirit, exploring new possibilities in legal research through technological means.
+我是一名就读于西安交通大学法学院的法学（复合）专业学生，对法律与科技的交叉领域充满热情。作为一名非典型INTJ人格的法学生，我善于将理性思维与创新精神相结合，在法律研究中运用科技手段探索新的可能性。
 
-## 📚 Education
+## 📞 联系方式
 
-- 🏛️ **Xi'an Jiaotong University** Law (Interdisciplinary Program) (2023-Present)
-  - 🏅 **National Scholarship Recipient 2023-2024**
-  - 📊 Academic Performance: Rank 1/30 in class, 2/84 in major
-  - 🌟 15 courses with scores above 90, ranked 1st in 6 courses
-  - 🎯 CET-4: 635, CET-6: 566
-  - 💪 Outstanding Physical Education Performance
-  - 🔥 Active CPC Membership Applicant with Excellent Party Course Performance
+- **社交平台**
+  - <i class="fab fa-github"></i> GitHub: [SmallsmallQ](https://github.com/SmallsmallQ)
+  - <i class="fab fa-bilibili"></i> BiliBili: [我是小Q诶](https://b23.tv/bkcGaXz)
 
-## 🏆 Academic Achievements
+- **即时通讯**
+  - <i class="fab fa-qq"></i> QQ: [3517516303](tencent://message/?uin=3517516303)
+  - <i class="fab fa-weixin"></i> WeChat: gongyunbo2005
 
-- **Research Projects**
-  - Conducted empirical research on court judgments using NLP technology under Prof. Xue Hua's guidance
-  - Completed thesis "Empirical Research on Campus Bullying Civil Cases from the Perspective of Judicial Big Data"
+- **电子邮箱**
+  - <i class="fas fa-envelope"></i> 学校邮箱: [gongyunbo@stu.xjtu.edu.cn](mailto:gongyunbo@stu.xjtu.edu.cn)
+
+## 📚 教育经历
+
+- 🏛️ **西安交通大学** 法学(复合)专业（2023-至今）
+  - 🏅 **2023-2024年度国家奖学金获得者**
+  - 📊 综合成绩：班级排名 1/30，智育排名 2/84
+  - 🌟 大一学年共计15门课程90+，6门课程专业第一
+  - 🎯 CET4：635 CET6：566
+  - 💪 体测成绩：优秀
+  - 🔥 入党积极分子，党课成绩优秀
+
+## 🏆 学术成果
+
+- **科研探索**
+  -探索运用计算机自然语言处理技术，进行判决书实证研究
+  - 完成论文《司法大数据视角下校园欺凌民事案件的实证研究》
   
-- **Competition Awards**
-  - 🏆 First Prize in University New Liberal Arts Competition (2 awards)
-  - 🎖️ Provincial Third Prize in "Brand Ambassador for Shaanxi"
-  - 🌟 Provincial Grant in China College Students' Innovation Competition (2 projects)
-  - 🏅 Grand Prize in "Understanding Modern China" English Competition
-  - ⚖️ National Award in ICRC International Humanitarian Law Competition
+- **竞赛获奖**
+  - 🏆 全国新文科大赛 校赛一等奖(2项)
+  - 🎖️ 我为陕西品牌代言 省级三等奖
+  - 🌟 中国大学生创新创业大赛 省级立项(2项)
+  - ⚖️ 红十字会国际委员会人道主义法律竞赛 全国奖项
+  - 🏅 理解当代中国英语能力大赛 特等奖
 
-## 💼 Professional Experience
+## 💼 实践经历
 
-- **Student Leadership**
-  - 📋 Director of Admission Publicity Office:
-    - 🌟 Outstanding Individual of Student Recruitment in Xi'an Jiaotong University
-    - Co-organized university-level admission events
-    - Managed largest campus ambassador program
-    - Supervised orientation group of 5000+ freshmen
-  - 🏢 Student Affairs Officer at Chongshi College
-  - 💻 Class Technology Representative
+- **学生工作**
+  - 📋 招团办公室部部长：
+    - 🌟 西安交通大学 校招生优秀个人  
+    - 协办校级高考招生动员大会及表彰大会
+    - 负责"校园大使"社会实践项目（全校最大）
+    - 管理近5000人新生群，负责新生引导工作
+  - 🏢 崇实书院宿生会干事
+  - 💻 班级科技委员
 
-- **Community Service**
-  - ❤️ 140 hours of volunteer service
-  - 🌟 Participated in "Voice for Blind Children, Hearts for Tibet" program
-  - 💪 130 hours of work-study experience
+- **志愿服务**
+  - ❤️ 累计志愿服务时长 140 小时
+  - 🌟 参与"千声助盲童 万心祝西藏"援藏志愿活动
+  - 💪 勤工俭学时长 130 小时
 
-## 🔧 Technical & Artistic Skills
+## 🔧 技术特长
 
-- **Programming**
-  - 💻 Proficient in C, Python, JavaScript
-  - 🌐 Web development and maintenance
-  - 📊 Data analysis and NLP capabilities
+- **编程技能**
+  - 💻 精通C、Python、JavaScript等编程语言
+  - 🌐 掌握网站开发与维护技术
+  - 📊 具备数据分析和自然语言处理能力
 
-- **Artistic Talents**
-  - 🎭 Choir conductor in military training (Third Prize)
-  - 🎻 Erhu performer at Xingqing Palace
-  - 📸 Photography award winner at XJTU Autumn Festival
-  - 🏃‍♂️ Active participant in university sports events
+- **艺术特长**
+  - 🎭 军训歌咏比赛指挥，带领连队获得校三等奖
+  - 🎻 擅长二胡演奏，多次在兴庆宫演出
+  - 📸 摄影作品获西安交通大学金秋梧桐节摄影大赛奖项
+  - 🏃‍♂️ 积极参加"西迁健康跑"等体育活动
 
-## 🌟 Personal Characteristics
+## 🌟 个人特色
 
-- Cross-disciplinary Integration: Combining legal thinking with technological innovation
-- Self-directed Learning: Continuously exploring frontiers of legal technology
-- Team Collaboration: Excellence in organization and management
-- Diverse Development: Achievements across academic, artistic, and technical fields
-
+- 跨界融合：将法律思维与技术创新相结合
+- 自主学习：持续探索法律科技的前沿领域
+- 团队协作：具备出色的组织和管理能力
+- 多元发展：在学术、艺术、科技等多个领域均有建树
 
 ---
 
-::: info
-An atypical law student dedicated to exploring innovative integration of law and technology. Upholding the university motto "Diligent in Learning, Persistent in Ambition, Resolute in Action, and Sincere in Service," advancing legal technology with an interdisciplinary perspective.
+::: info 
+非典型的法学生，致力于探索法律与科技的创新融合。秉持"精勤求学，敦笃励志，果毅力行，忠恕任事"校训，以跨学科视野推动法律科技发展。
 :::
