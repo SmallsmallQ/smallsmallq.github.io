@@ -5,7 +5,7 @@ export default navbar([
   {
     text: "法律学习",
     icon: "scale-balanced",
-    prefix: "/zh/legal study/",
+    prefix: "legal study/",
     children: [
       {
         text: "法理学",
@@ -29,10 +29,15 @@ export default navbar([
   {
     text: "社会实践",
     icon: "users",
-    prefix: "/zh/social practice/",
+    prefix: "social practice/",
     children: [
       { text: "项目信息", link: "basic info" },
       { text: "项目报告", link: "writing" }
     ]
+  },
+  {
+    text: "个人简历",
+    icon: "id-card",
+    link: "/intro.html",
   }
 ]);

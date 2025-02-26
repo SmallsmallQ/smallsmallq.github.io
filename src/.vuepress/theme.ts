@@ -1,6 +1,5 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { IconOptions } from "@vuepress/plugin-icon";
-
+import type { IconOptions } from "@vuepress/plugin-icon";
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
@@ -74,10 +73,7 @@ export default hopeTheme({
   // 加密配置
   encrypt: {
     config: {
-      "/demo/encrypt.html": {
-        hint: "Password: 1234",
-        password: "1234",
-      },
+      "/demo/encrypt.html": "1234",
     },
   },
 
@@ -105,7 +101,7 @@ export default hopeTheme({
     tabs: true,
     tasklist: true,
     vPre: true,
-    
+    chartjs: true,  // 将 chart 改为 chartjs
     
     // 启用 Mermaid
     mermaid: true,
@@ -118,17 +114,20 @@ export default hopeTheme({
     // stylize: true
   },
 
+  // 使用 Font Awesome 6 图标
+  iconAssets: "fontawesome-with-brands",
+  // 前缀配置
+  iconPrefix: "fa6-solid fa-",
+
   // 在这里配置主题提供的插件
   plugins: {
     blog: true,
     components: {
       components: ["Badge", "VPCard"],
     },
-    // 修改 icon 配置
-    icons: {
-      // 使用 Font Awesome 6 图标
+    // 添加 icon 配置
+    icon: {
       iconAssets: "fontawesome-with-brands",
-      // 前缀配置
       iconPrefix: "fa6-solid fa-",
     },
   },

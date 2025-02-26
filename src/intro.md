@@ -33,7 +33,7 @@ welcome: 欢迎来到我的个人主页
 - **电子邮箱**
   - <i class="fas fa-envelope"></i> 学校邮箱: [gongyunbo@stu.xjtu.edu.cn](mailto:gongyunbo@stu.xjtu.edu.cn)
 
-## 📚 教育经历
+##  教育经历
 
 ::: tabs#education
 
@@ -57,100 +57,97 @@ welcome: 欢迎来到我的个人主页
       "fontSize": 16
     }
   },
-  "tooltip": {},
-  "radar": {
-    "indicator": [
-      { "name": "CET4", "max": 710 },
-      { "name": "CET6", "max": 710 },
-      { "name": "口语", "max": 100 },
-      { "name": "写作", "max": 100 },
-      { "name": "翻译", "max": 100 }
-    ],
-    "shape": "circle"
-  },
   "series": [{
-    "name": "语言能力",
-    "type": "radar",
-    "data": [{
-      "value": [635, 566, 85, 90, 88],
-      "name": "能力值",
-      "areaStyle": {
-        "color": "rgba(54, 162, 235, 0.2)"
-      },
-      "lineStyle": {
-        "color": "rgb(54, 162, 235)"
-      },
-      "itemStyle": {
-        "color": "rgb(54, 162, 235)"
-      }
-    }]
+    "type": "pie",
+    "data": [
+      { "name": "CET4", "value": 600 },
+      { "name": "CET6", "value": 550 },
+      { "name": "TOEFL", "value": 100 }
+    ],
+    "radius": "60%"
   }]
 }
-```
+:::
 
+@tab 志愿服务
+
+::: echarts 社会实践时长分布
+
+Code snippet
+
+{
+  "series": [
+    {
+      "type": "pie",
+      "data": [
+        { "name": "志愿服务", "value": 140 },
+        { "name": "勤工俭学", "value": 130 },
+        { "name": "社会实践", "value": 80 }
+      ],
+      "radius": "60%"
+    }
+  ]
+}
 :::
 
 @tab 主要荣誉
 
 ::: timeline 2023-2024学年
-- 国家奖学金获得者
-- 体测成绩优秀
-- 入党积极分子，党课成绩优秀
+
+国家奖学金获得者
+体测成绩优秀
+入党积极分子，党课成绩优秀 :::
 :::
 
-:::
-
-## 🏆 学术成果
-
+学术成果
 ::: details 科研探索流程
-```mermaid
+
+Code snippet
+
 graph LR
     A[数据收集] --> B[自然语言处理]
     B --> C[数据分析]
     C --> D[成果输出]
     D --> E[实践应用]
-```
 :::
 
 ::: warning 重要项目
-- 司法大数据视角下校园欺凌研究
-- 生成式AI训练数据合理使用研究
-- 婚姻关系影响知识产权收益归属研究
-:::
 
-## 💼 实践经历
-
+司法大数据视角下校园欺凌研究
+生成式AI训练数据合理使用研究
+婚姻关系影响知识产权收益归属研究 :::
+实践经历
 ::: tabs#practice
 
 @tab 学生工作
 
 ::: details 招团办公室部长工作
-- 管理5000+新生群
-- 组织招生宣传活动
-- 协办高考招生动员大会
-- 获评校招生优秀个人
-:::
 
+管理5000+新生群
+组织招生宣传活动
+协办高考招生动员大会
+获评校招生优秀个人 :::
 @tab 志愿服务
 
-::: chart 社会实践时长分布
+::: echarts 社会实践时长分布
 
-```json
+Code snippet
+
 {
-  "type": "pie",
-  "data": {
-    "labels": ["志愿服务", "勤工俭学", "社会实践"],
-    "datasets": [{
-      "data": [140, 130, 80],
-      "backgroundColor": [
-        "rgba(255, 99, 132, 0.5)",
-        "rgba(54, 162, 235, 0.5)",
-        "rgba(255, 206, 86, 0.5)"
-      ]
-    }]
-  }
+  "series": [
+    {
+      "type": "pie",
+      "data": [
+        { "name": "志愿服务", "value": 140 },
+        { "name": "勤工俭学", "value": 130 },
+        { "name": "社会实践", "value": 80 }
+      ],
+      "radius": "60%"
+    }
+  ]
 }
-```
+
+
 
 :::
 
