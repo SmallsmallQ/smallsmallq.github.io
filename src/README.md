@@ -1,14 +1,12 @@
 ---
+icon: restfulFastRequest
 home: true
-icon: house
 title: 小Q的个人网站
-heroImage: https://i.postimg.cc/zvQ41bSP/logo.png
-bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
-bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
-bgImageStyle:
-  background-attachment: fixed
+heroFullScreen: true
+heroImageDark: https://i.postimg.cc/zvQ41bSP/logo.png
+bgImage: /img/bg4.svg
 heroText: 小Q的个人网站
-tagline: 一个非典型法学生
+tagline: 欢迎来到小Q的个人网站
 actions:
   - text: 关于我
     icon: person
@@ -16,314 +14,115 @@ actions:
     type: primary
 
   - text: Github
-    icon: /assets/image/github.svg
     link: https://github.com/smallsmallq
 
-highlights:
-  - header: 易于安装
-    image: /assets/image/box.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
-    highlights:
-      - title: 运行 <code>pnpm create vuepress-theme-hope hope-project</code> 以创建一个新的主题项目。
-      - title: 在已有项目根目录下运行 <code>pnpm create vuepress-theme-hope add .</code> 以在项目中添加主题。
+features:
+  - title: 西安交大教务处
+    icon: handshake
+    details: 可以快速查看课程表、成绩、考勤、考试安排、课程评价等信息，方便学生进行学习和管理。
+    link: https://jwc.xjtu.edu.cn/
 
+  - title: 崇实学辅
+    icon: https://i.postimg.cc/43hcbY3v/24-E807-EDBA14-DB4719-FE3-F934-AE810-C2.png
+    details: 崇实书院学业辅导中心，为学生提供学习资料及学业辅导。
+    link: https://csxf.online/
 
+  - title: DeepSeek
+    icon: https://registry.npmmirror.com/@lobehub/icons-static-png/1.19.0/files/dark/
+    details: 深度求索DeepSeek模型对话官方网站。
+    link: /guide/features/
 
-  - header: 网站导航
-    description: 
-    image: /assets/icon/navigation.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
-    bgImageStyle:
-      background-repeat: repeat
-      background-size: initial
-    features:
-      - title: 西安交大教务处
-        icon: handshake
-        details: 教务处官方官网，由此可进入教务系统、考勤系统，学工系统等
-        link: https://jwc.xjtu.edu.cn/
+  - title: 法学笔记
+    icon: scale-balanced
+    details: 法学专业的学习笔记，包括经济学、政治学、社会学、法律、政治学等。
+    link: legal%20study/
 
-      - title: 崇实学辅
-        icon: https://i.postimg.cc/43hcbY3v/24-E807-EDBA14-DB4719-FE3-F934-AE810-C2.png
-        details: 崇实书院学业辅导中心，为学生提供学习资料及学业辅导
-        link: https://csxf.online/
+head:
+  - - meta
+    - name: keywords
+      content: API Buddy,Fast Request,RestfulFastRequest,fast request官网,api-buddy,Restful Fast Request,Fast Request激活码
+  - - meta
+    - name: description
+      content: Restful Fast Request是一个IntelliJ IDEA上的的类似postman的restful api工具插件，可以根据已有的方法帮助您快速生成url和params，一个API调试工具+API管理工具，支持springmvc、springboot、java-rs
+  - - meta
+    - name: wwads-cn-verify
+      content: 2f2b265625d76a6704b08093c652fd79
 
-      - title: DeepSeek
-        icon: https://registry.npmmirror.com/@lobehub/icons-static-png/1.19.0/files/dark/deepseek-color.png
-        details: 深度求索DeepSeek模型对话官方网站
-        link: https://chat.deepseek.com/
-
-      - title: 法学笔记
-        icon: scale-balanced
-        details: 这个我的法学笔记分享
-        link: legal%20study/
-
-      - title: 代码组
-        icon: code
-        details: 使用选项卡对相似代码进行分组
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code/code-tabs.html
-
-      - title: 自定义对齐
-        icon: align-center
-        details: Markdown 中对内容进行自定义对齐
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/align.html
-
-      - title: 自定义属性
-        icon: code
-        details: 为 Markdown 元素添加属性
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/attrs.html
-
-      - title: 上下角标
-        icon: superscript
-        details: 轻松在 Markdown 中添加上下角标
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/sup-sub.html
-
-      - title: 脚注
-        icon: quote-left
-        details: 在内容中插入脚注
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/content/footnote.html
-
-      - title: 标记
-        icon: highlighter
-        details: 标记并高亮内容
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/mark.html
-
-      - title: 剧透
-        icon: eraser
-        details: 添加剧透标记支持
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/spoiler.html
-
-      - title: 任务列表
-        icon: square-check
-        details: 轻松插入任务列表
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/grammar/tasklist.html
-
-      - title: 图片语法
-        icon: image
-        details: 使用改进的语法指定图片大小与颜色模式
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/grammar/image.html
-
-      - title: 组件支持
-        icon: puzzle-piece
-        details: 在 Markdown 中轻松插入组件
-        link: https://theme-hope.vuejs.press/zh/guide/component/grammar.html
-
-      - title: 组件
-        icon: puzzle-piece
-        details: 开箱即用的常用组件
-        link: https://theme-hope.vuejs.press/zh/guide/component/built-in.html
-
-      - title: Chart.js 支持
-        icon: chart-simple
-        details: 在 Markdown 中展示 Chart.js 图表
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/chart/chartjs.html
-
-      - title: 流程图支持
-        icon: route
-        details: 在 Markdown 中直接写出流程图
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/chart/flowchart.html
-
-      - title: Mermaid 支持
-        icon: chart-pie
-        details: 在 Markdown 中添加 Mermaid 图例
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/chart/mermaid.html
-
-      - title: Plantuml 支持
-        icon: diagram-project
-        details: 在 Markdown 中添加 Plant UML 图表
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/chart/plantuml.html
-
-      - title: Tex 支持
-        icon: square-root-variable
-        details: Markdown 现在也可以支持 Tex 语法以显示公式
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/grammar/math.html
-
-      - title: 导入文件支持
-        icon: fa6-brands:markdown
-        details: 将你的文档分段，并在 Markdown 中导入
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/content/include.html
-
-      - title: 交互演示支持
-        icon: code
-        details: 你可以在 Markdown 中添加交互演示
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code/playground.html
-
-      - title: Kotlin 交互演示支持
-        icon: fa6-brands:kickstarter
-        details: 响应式的 Kotlin 演示
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code/kotlin-playground.html
-
-      - title: Vue 交互演示支持
-        icon: fa6-brands:vuejs
-        details: 在交互演示中展示 Vue 组件
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code/vue-playground.html
-
-      - title: Sandpack 交互演示支持
-        icon: code
-        details: Sandpack 驱动的实时的编码环境
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code/sandpack.html
-
-      - title: 代码案例支持
-        icon: laptop-code
-        details: 你可以很方便的插入代码案例
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code/demo.html
-
-      - title: 幻灯片支持
-        icon: person-chalkboard
-        details: 通过 Reveal.js 在 Markdown 中插入幻灯片
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/content/revealjs.html
-
-  - header: 可定制的页面
-    description: 完整无障碍支持的可定制外观
-    image: /assets/image/ui.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/9-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/9-dark.svg
-    highlights:
-      - title: 深色模式
-        icon: circle-half-stroke
-        details: 可以自由切换浅色模式与深色模式
-        link: https://theme-hope.vuejs.press/zh/guide/interface/darkmode.html
-
-      - title: 主题色切换
-        icon: palette
-        details: 支持自定义主题色并允许用户在预设的主题颜色之间切换
-        link: https://theme-hope.vuejs.press/zh/guide/interface/theme-color.html
-
-      - title: 更多
-        icon: ellipsis
-        details: RTL 布局，打印支持，全局按钮等
-        link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
-
-  - header: 布局
-    description: 一个完美的响应式布局。
-    image: /assets/image/layout.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
-    highlights:
-      - title: 导航栏
-        icon: window-maximize
-        details: 完全可定制的导航栏以及改进的移动端外观
-        link: https://theme-hope.vuejs.press/zh/guide/layout/navbar.html
-
-      - title: 侧边栏
-        icon: fas fa-window-maximize fa-rotate-270
-        details: 从文档标题或文件结构中自动生成侧边栏
-        link: https://theme-hope.vuejs.press/zh/guide/layout/sidebar.html
-
-      - title: 幻灯片页面
-        icon: person-chalkboard
-        details: 添加幻灯片页面以显示你喜欢的内容
-        link: https://theme-hope.vuejs.press/zh/guide/layout/slides.html
-
-      - title: 布局增强
-        icon: object-group
-        details: 添加路径导航、页脚、改进的导航栏、改进的页面导航等。
-        link: https://theme-hope.vuejs.press/zh/guide/layout/
-
-      - title: 更多
-        icon: ellipsis
-        details: RTL 布局，打印支持，全局按钮等
-        link: https://theme-hope.vuejs.press/zh/guide/interface/others.html
-
-  - header: 新功能
-    image: /assets/image/features.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/1-dark.svg
-    features:
-      - title: 目录页面
-        icon: network-wired
-        details: 自动生成目录页以及开箱即用的目录组件
-        link: https://theme-hope.vuejs.press/zh/guide/feature/catalog.html
-
-      - title: 浏览量与评论
-        icon: comment-dots
-        details: 配合 4 个评论服务开启阅读量统计与评论支持
-        link: https://theme-hope.vuejs.press/zh/guide/feature/comment.html
-
-      - title: 文章信息
-        icon: circle-info
-        details: 为你的文章添加作者、写作日期、预计阅读时间、字数统计等信息
-        link: https://theme-hope.vuejs.press/zh/guide/feature/page-info.html
-
-      - title: 文章加密
-        icon: lock
-        details: 你可以为你的特定页面或特定目录进行加密，以便陌生人不能随意访问它们
-        link: https://theme-hope.vuejs.press/zh/guide/feature/encrypt.html
-
-      - title: 搜索支持
-        icon: search
-        details: 支持 docsearch 和基于客户端的搜索
-        link: https://theme-hope.vuejs.press/zh/guide/feature/search.html
-
-      - title: 代码块
-        icon: code
-        details: 自定义代码块主题、行号、行高亮、复制按钮等
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/code/fence.html.html
-
-      - title: 图片预览
-        icon: image
-        details: 像相册一样允许你浏览、缩放并分享你的页面图片
-        link: https://theme-hope.vuejs.press/zh/guide/feature/photo-swipe.html
-
-  - header: 博客
-    description: 通过主题创建个人博客
-    image: /assets/image/blog.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
-    highlights:
-      - title: 博客功能
-        icon: blog
-        details: 通过文章的日期、标签和分类展示文章
-        link: https://theme-hope.vuejs.press/zh/guide/blog/intro.html
-
-      - title: 博客主页
-        icon: house
-        details: 全新博客主页
-        link: https://theme-hope.vuejs.press/zh/guide/blog/home.html
-
-      - title: 博主信息
-        icon: circle-info
-        details: 自定义名称、头像、座右铭和社交媒体链接
-        link: https://theme-hope.vuejs.press/zh/guide/blog/blogger.html
-
-      - title: 时间线
-        icon: clock
-        details: 在时间线中浏览和通读博文
-        link: https://theme-hope.vuejs.press/zh/guide/blog/timeline.html
-
-  - header: 高级
-    description: 增强站点与用户体验的高级功能
-    image: /assets/image/advanced.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/4-dark.svg
-    highlights:
-      - title: SEO 增强
-        icon: dumbbell
-        details: 将最终生成的网页针对搜索引擎进行优化。
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/seo.html
-
-      - title: Sitemap
-        icon: sitemap
-        details: 自动为你的网站生成 Sitemap
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/sitemap.html
-
-      - title: Feed 支持
-        icon: rss
-        details: 生成你的 Feed，并通知你的用户订阅它
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/feed.html
-
-      - title: PWA 支持
-        icon: mobile-screen
-        details: 让你的网站更像一个 APP
-        link: https://theme-hope.vuejs.press/zh/guide/advanced/pwa.html
-
-copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-至今 Mr.Hope
+  - - meta
+    - name: baidu-site-verification
+      content: codeva-CrZ94MmST2
 ---
 
-这是项目主页的案例。你可以在这里放置你的主体内容。
+<div style="margin-top: 30px;"></div>
 
-想要使用此布局，你需要在页面 front matter 中设置 `home: true`。
+[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=FastRequest666&logo=twitter&color=FC8D34)](https://twitter.com/FastRequest666)
+[![github](https://badgen.net/badge/Github/fast-request/21D789?icon=github)](https://github.com/dromara/fast-request) [![Jetbrains Plugins][plugin-img]][plugin] ![Version](https://img.shields.io/jetbrains/plugin/v/16988?logo=IntelliJ%20IDEA) ![Downloads](https://img.shields.io/jetbrains/plugin/d/16988?color=FE2857)
 
-配置项的相关说明详见 [项目主页配置](https://theme-hope.vuejs.press/zh/guide/layout/home/)。
+<div style="margin-top: 20px;"></div>
+
+## 🌈 赞助商
+
+1. [**赞助可以为您带来什么(必看)**](./guide/sponsor.md#优势)
+
+2. [成为赞助者](./guide/sponsor.md)
+
+<SiteInfo
+name="CodeGeeX"
+desc="免费必装的智能编程助手"
+url="https://codegeex.cn/?utm_source=pay&utm_medium=fast-request"
+logo="/img/sponsor/codegeex.svg"
+preview="/img/sponsor/codegeex-home.png"
+style="max-width:370px"
+/>
+
+<SiteInfo
+name="Apifox"
+desc="API 设计、开发、测试一体化协作平台"
+url="http://apifox.com/?utm_source=pay&utm_medium=fast-request"
+logo="/img/sponsor/apifox.png"
+preview="/img/sponsor/apifox-home.png"
+style="max-width:370px"
+/>
+
+<SiteInfo
+  name="引迈信息"
+  desc="一键生成表单信息"
+  url="https://www.jnpfsoft.com/index.html?from=fast-request"
+  logo="/img/sponsor/jnpfsoft-logo.png"
+  preview="/img/sponsor/jnpfsoft-home.png"
+  style="max-width:370px"
+/>
+
+## 优势
+
+<div class="home-advantage">
+  <div style="border-radius: 10px;overflow: hidden">
+    <iframe
+      title="优势"
+      :src="$withBase('/html/showsideNew.html')"
+      width="100%"
+      height="500px"
+      frameborder="0"
+      scrolling="No"
+      leftmargin="0"
+      topmargin="0"
+    />
+  </div>
+  <div style="margin-top: 20px"></div>
+  <a class="advantage-more" href="guide/features/">更多功能</a>
+</div>
+
+## 🥇 功能
+
+<!-- @include: @src/compare.snippet.md -->
+
+## 🎉 致谢
+
+**Fast Request** 简称 **FR** 。自从 2021 年上线以来获得了很多人的支持。目前微信社区群 1000 多人，下载超过 ![Downloads](https://img.shields.io/jetbrains/plugin/d/16988?color=FE2857)，感谢各位支持者的一路同行，我们会努力提升软件的人性化程度，同时也让软件变得有趣。
+
+感谢 OSCHINA 和 Gitee 官方平台对 **FR** 项目的推荐和肯定。**Restful Fast Request**在 [**2021**](https://www.oschina.net/question/2918182_2324736) 年度获得"OSC 年度最受欢迎个人项目" <Badge vertical="baseline">Top 15</Badge> 殊荣。
+
+<!-- @include: @src/contact.snippet.md -->
+
+[plugin]: https://plugins.jetbrains.com/plugin/16988
+[plugin-img]: https://img.shields.io/badge/plugin-主页-x.svg?logo=IntelliJ%20IDEA
