@@ -13,7 +13,7 @@ export default hopeTheme({
   logo: "https://i.postimg.cc/zvQ41bSP/logo.png",
 
   repo: "SmallsmallQ/smallsmallq.github.io",
-
+  copyright: "Copyright © 2024-present 小Q",
   docsDir: "src",
 
   // 导航栏
@@ -46,6 +46,11 @@ export default hopeTheme({
 
   // 此处开启了很多功能用于演示，你应仅保留用到的功能。
   markdown: {
+    highlighter: {
+      type: "shiki",
+      lineNumbers: 10,
+      theme: "one-dark-pro",
+    },
     align: true,
     attrs: true,
     codeTabs: true,
@@ -88,7 +93,7 @@ export default hopeTheme({
 
     // 如果你需要幻灯片，安装 @vuepress/plugin-revealjs 并取消下方注释
     revealjs: {
-    plugins: ["highlight", "math", "search", "notes", "zoom"],
+      plugins: ["highlight", "math", "search", "notes", "zoom"],
     },
 
     // 在启用之前安装 chart.js
@@ -128,7 +133,14 @@ export default hopeTheme({
     },
 
     components: {
-      components: ["Badge", "VPCard"],
+      components: [
+        "Badge",
+        "BiliBili",
+        "SiteInfo",
+        "VPBanner",
+        "VPCard",
+        "VidStack",
+      ],
     },
 
     icon: {

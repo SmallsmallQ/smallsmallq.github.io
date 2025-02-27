@@ -1,29 +1,33 @@
 ---
-icon: restfulFastRequest
+icon: https://i.postimg.cc/zvQ41bSP/logo.png
 home: true
 title: 小Q的个人网站
 heroFullScreen: true
 heroImageDark: https://i.postimg.cc/zvQ41bSP/logo.png
+heroImageLight: https://i.postimg.cc/zvQ41bSP/logo.png
+heroImage: https://i.postimg.cc/zvQ41bSP/logo.png
+
 bgImage: /img/bg4.svg
 heroText: 小Q的个人网站
 tagline: 欢迎来到小Q的个人网站
 actions:
   - text: 关于我
     icon: person
-    link: portfolio.md
+    link: about.md
     type: primary
 
   - text: Github
+    icon: github
     link: https://github.com/smallsmallq
 
 features:
   - title: 西安交大教务处
-    icon: handshake
+    icon: school
     details: 可以快速查看课程表、成绩、考勤、考试安排、课程评价等信息，方便学生进行学习和管理。
     link: https://jwc.xjtu.edu.cn/
 
   - title: 崇实学辅
-    icon: https://i.postimg.cc/43hcbY3v/24-E807-EDBA14-DB4719-FE3-F934-AE810-C2.png
+    icon: handshake-angle
     details: 崇实书院学业辅导中心，为学生提供学习资料及学业辅导。
     link: https://csxf.online/
 

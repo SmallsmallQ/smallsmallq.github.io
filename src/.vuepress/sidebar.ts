@@ -39,12 +39,11 @@ export default sidebar({
       ],
     }
   ],
-  "/": [
+  "/life-sharing/": [
     {
-      text: "个人分享",
-      icon: "person-chalkboard",
-      prefix: "guide/",
-      children: "structure",
+      text: "生活分享",
+      icon: "mug-hot",
+      children: ["go-on-journey"],
     },
     {
       text: "友链",

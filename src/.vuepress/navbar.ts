@@ -35,6 +35,14 @@ export default navbar([
     ],
   },
   {
+    text: "生活分享",
+    icon: "mug-hot",
+    prefix: "/life-sharing/",
+    children: [
+      { text: "去旅行", icon: "plane", link: "go-on-journey" }
+    ],
+  },
+  {
     text: "友链",
     icon: "link",
     link: "/friend",
