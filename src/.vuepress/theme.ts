@@ -1,5 +1,4 @@
 import { hopeTheme } from "vuepress-theme-hope";
-
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
@@ -7,13 +6,13 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "小Q",
+    url: "https://www.smallq.top/",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "https://i.postimg.cc/zvQ41bSP/logo.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "SmallsmallQ/smallsmallq.github.io",
 
   docsDir: "src",
 
@@ -88,9 +87,9 @@ export default hopeTheme({
     // },
 
     // 如果你需要幻灯片，安装 @vuepress/plugin-revealjs 并取消下方注释
-    // revealjs: {
-    //   plugins: ["highlight", "math", "search", "notes", "zoom"],
-    // },
+    revealjs: {
+    plugins: ["highlight", "math", "search", "notes", "zoom"],
+    },
 
     // 在启用之前安装 chart.js
     // chartjs: true,
