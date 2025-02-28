@@ -59,6 +59,30 @@ export default sidebar([
     ],
   },
   {
+    text: "项目展示",
+    icon: "fa6-brands fa-vuejs",
+    prefix: "project-demo/",
+    collapsible: true, // 添加 collapsible 属性
+    children: [
+      {
+        text: "能源",
+        prefix: "energy/",
+        icon: "fa6-solid fa-bolt",
+        collapsible: true, // 添加 collapsible 属性
+        children: [
+          {
+            text: "社会实践",
+            link: "social-practice", // 添加 link 属性
+          },
+          {
+            text: "腾飞杯",
+            link: "submit", // 添加 link 属性
+          },
+        ],
+      },
+    ],
+  },
+  {
     text: "友链",
     icon: "link",
     link: "/friend",

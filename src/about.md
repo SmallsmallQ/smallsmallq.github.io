@@ -5,7 +5,7 @@ title: 个人介绍
 icon: circle-info
 welcome: 👋 你好，我是
 name: 龚运博
-avatar: assets/image/myself.jpg
+avatar: assets/images/myself.jpg
 bgImage: /img/bg4.svg
 
 titles:

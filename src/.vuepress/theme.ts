@@ -95,7 +95,7 @@ export default hopeTheme({
     },
 
     // 在启用之前安装 chart.js
-    // chartjs: true,
+    chartjs: true,
 
     // insert component easily
 
@@ -103,20 +103,20 @@ export default hopeTheme({
     echarts: true,
 
     // 在启用之前安装 flowchart.ts
-    // flowchart: true,
+    flowchart: true,
 
     // 在启用之前安装 mermaid
-    // mermaid: true,
+    mermaid: true,
 
-    // playground: {
-    //   presets: ["ts", "vue"],
-    // },
+    playground: {
+      presets: ["ts", "vue"],
+     },
 
     // 在启用之前安装 @vue/repl
-    // vuePlayground: true,
+    vuePlayground: true,
 
     // 在启用之前安装 sandpack-vue3
-    // sandpack: true,
+    sandpack: true,
   },
 
   // 在这里配置主题提供的插件
@@ -132,13 +132,32 @@ export default hopeTheme({
 
     components: {
       components: [
+        "ArtPlayer",
         "Badge",
         "BiliBili",
+        "CodePen",
+        "PDF",
+        "Share",
+        "StackBlitz",
         "SiteInfo",
         "VPBanner",
         "VPCard",
         "VidStack",
+        "XiGua",
       ],
+      // 组件的全局配置
+      componentOptions: {
+        // PDF 组件配置
+        pdf: {
+          pdfjs: "https://cdn.jsdelivr.net/npm/pdfjs-dist/web/pdf_viewer.min.js",
+        },
+        // 分享组件配置
+        share: {
+          services: ["weibo", "qq", "email",],
+        },
+      },
+      // 组件的多语言配置
+
     },
 
     icon: {

@@ -42,6 +42,27 @@ export default navbar([
       { text: "去旅行", icon: "plane", link: "go-on-journey" }
     ],
   },
+    {
+    text: "项目展示",
+    icon: "fa6-brands fa-vuejs",
+    prefix: "/project-demo/",
+    children: [
+      {
+        text: "能源",
+        icon: "fa6-solid fa-bolt",
+        children: [
+          {
+            text: "社会实践",
+            link: "energy/social-practice",
+          },
+          {
+            text: "腾飞杯",
+            link: "energy/submit",
+          },
+        ],
+      },
+    ],
+  },
   {
     text: "友链",
     icon: "link",
