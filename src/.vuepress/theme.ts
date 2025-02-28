@@ -1,7 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
-
 export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
@@ -82,7 +81,6 @@ export default hopeTheme({
     tabs: true,
     tasklist: true,
     vPre: true,
-
     // 取消注释它们如果你需要 TeX 支持
     // math: {
     //   // 启用前安装 katex
@@ -203,5 +201,6 @@ export default hopeTheme({
     //     ],
     //   },
     // },
+    search: true
   },
 });
