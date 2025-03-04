@@ -106,8 +106,6 @@ category:
 
 ## 📝 学习笔记
 
-- [民法典学习心得](/legal-study/civil-law/thinking.md)
-- [民法经典案例分析](/legal-study/civil-law/cases.md)
-- [民法疑难问题解析](/legal-study/civil-law/problems.md)
+
 
 <Catalog />

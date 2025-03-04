@@ -2,6 +2,8 @@ import { defineUserConfig } from "vuepress";
 import { mdEnhancePlugin } from "vuepress-plugin-md-enhance"; // 使用插件
 import theme from "./theme.js";
 import ab_mdit from "any-block-converter-markdown-it"
+import mdItObsidianCallouts from "markdown-it-obsidian-callouts"; // 添加这一行
+
 import jsdom from "jsdom"
 const { JSDOM } = jsdom
 const dom = new JSDOM(`<!DOCTYPE html><html><body></body></html>`, {
@@ -36,5 +38,6 @@ export default defineUserConfig({
   // VuePress 2.x 的 Markdown 配置方式
   extendsMarkdown: (md) => {
     md.use(ab_mdit);
+    md.use(mdItObsidianCallouts); // 添加这一行
   }
 });
