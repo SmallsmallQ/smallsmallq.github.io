@@ -23,6 +23,9 @@ importers:
       flowchart.ts:
         specifier: ^3.0.1
         version: 3.0.1
+      markdown-it-obsidian-callouts:
+        specifier: ^0.3.2
+        version: 0.3.2(markdown-it@13.0.2)
       mermaid:
         specifier: ^11.4.1
         version: 11.4.1
@@ -2407,6 +2410,11 @@ packages:
 
   markdown-it-emoji@3.0.0:
     resolution: {integrity: sha512-+rUD93bXHubA4arpEZO3q80so0qgoFJEKRkRbjKX8RTdca89v2kfyF+xR3i2sQTwql9tpPZPOQN5B+PunspXRg==}
+
+  markdown-it-obsidian-callouts@0.3.2:
+    resolution: {integrity: sha512-YfvKgXJvqfXYqHIkQhQsDe/QzOdndhCkttqokPoZUEqUrzmumbUsUAUmyheV/igJFGwwsnE7h2UMIAKcdrLbrg==}
+    peerDependencies:
+      markdown-it: ^14.0.0
 
   markdown-it@13.0.2:
     resolution: {integrity: sha512-FtwnEuuK+2yVU7goGn/MJ0WBZMM9ZPgU9spqlFs7/A/pDIUNSOQZhUgOqYCficIuR2QaFnrt8LHqBWsbTAoI5w==}
@@ -6216,6 +6224,10 @@ snapshots:
   markdown-it-emoji@2.0.2: {}
 
   markdown-it-emoji@3.0.0: {}
+
+  markdown-it-obsidian-callouts@0.3.2(markdown-it@13.0.2):
+    dependencies:
+      markdown-it: 13.0.2
 
   markdown-it@13.0.2:
     dependencies:
