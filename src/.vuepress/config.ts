@@ -1,5 +1,5 @@
 import { defineUserConfig } from "vuepress";
-
+import { path } from '@vuepress/utils';
 import theme from "./theme.js";
 
 export default defineUserConfig({
@@ -13,4 +13,7 @@ export default defineUserConfig({
 
   // 和 PWA 一起启用
   // shouldPrefetch: false,
+  alias: {
+    '@components': path.resolve(__dirname, './components'),
+  },
 });

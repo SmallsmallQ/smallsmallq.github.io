@@ -1,6 +1,7 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
+import * as Clarity from "@microsoft/clarity"; 
 export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
@@ -222,4 +223,5 @@ export default hopeTheme({
     // },
     search: true
   },
+
 });

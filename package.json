@@ -26,6 +26,7 @@
   },
   "packageManager": "pnpm@10.5.2+sha512.da9dc28cd3ff40d0592188235ab25d3202add8a207afbedc682220e4a0029ffbff4562102b9e6e46b4e3f9e8bd53e6d05de48544b0c57d4b0179e22c76d1199b",
   "dependencies": {
+    "@microsoft/clarity": "^1.0.0",
     "@vue/repl": "^4.5.1",
     "@vuepress/plugin-docsearch": "2.0.0-rc.0",
     "@vuepress/plugin-revealjs": "2.0.0-rc.47",
