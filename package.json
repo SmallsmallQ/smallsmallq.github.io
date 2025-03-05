@@ -33,6 +33,7 @@
     "chart.js": "^4.4.8",
     "flowchart.ts": "^3.0.1",
     "mermaid": "^11.4.1",
-    "sandpack-vue3": "^3.1.12"
+    "sandpack-vue3": "^3.1.12",
+    "echarts": "^5.5.0"
   }
 }
