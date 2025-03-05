@@ -7,7 +7,7 @@ export default defineUserConfig({
 
   lang: "zh-CN",
   title: "小Q的网站",
-  description: "这里是小Q的个人网站，记录了小Q的学习笔记，生活随笔，以及一些个人的想法",
+  description: "这里是小Q的个人网站,记录了小Q的学习笔记，生活随笔，以及一些个人的想法",
 
   theme,
 
