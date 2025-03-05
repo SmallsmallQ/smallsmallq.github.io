@@ -1,6 +1,7 @@
 import { defineUserConfig } from "vuepress";
 
 import theme from "./theme.js";
+
 export default defineUserConfig({
   base: "/",
 
@@ -12,7 +13,4 @@ export default defineUserConfig({
 
   // 和 PWA 一起启用
   // shouldPrefetch: false,
-
-  // VuePress 2.x 的 Markdown 配置方式
-
 });

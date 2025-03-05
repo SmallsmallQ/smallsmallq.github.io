@@ -32,6 +32,7 @@ highlights:
     image: /assets/image/legal.svg
     features:
       - title: 民法学
+        icon: scale-balanced
         link: legal%20study/civil-law/
 
       - title: 法理学
