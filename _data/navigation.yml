@@ -7,27 +7,48 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
+# Chinese Navigation (中文导航)
 main:
+  - title: "论文发表"
+    url: /zh/publications/
+
+  - title: "学术报告"
+    url: /zh/talks/
+
+  - title: "教学经历"
+    url: /zh/teaching/
+
+  - title: "作品集"
+    url: /zh/portfolio/
+
+  - title: "博客文章"
+    url: /zh/year-archive/
+
+  - title: "个人简历"
+    url: /zh/cv/
+
+  - title: "使用指南"
+    url: /zh/markdown/
+
+# English Navigation (英文导航)
+en:
   - title: "Publications"
-    url: /publications/
+    url: /en/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /en/talks/
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /en/teaching/
+
   - title: "Portfolio"
-    url: /portfolio/
-        
+    url: /en/portfolio/
+
   - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: /en/year-archive/
+
   - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
+    url: /en/cv/
+
   - title: "Guide"
-    url: /markdown/
+    url: /en/markdown/
