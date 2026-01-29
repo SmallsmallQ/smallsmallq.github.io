@@ -1,6 +1,7 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "使用指南"
+lang: zh
 author_profile: true
 redirect_from: 
   - /md/

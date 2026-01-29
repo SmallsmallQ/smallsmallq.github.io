@@ -1,6 +1,7 @@
 ---
 permalink: /terms/
-title: "Terms and Privacy Policy"
+title: "条款与隐私政策"
+lang: zh
 modified: 2016-06-06
 ---
 

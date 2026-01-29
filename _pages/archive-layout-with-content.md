@@ -1,7 +1,8 @@
 ---
-title: "Archive Layout with Content"
+title: "带内容的归档布局"
 layout: archive
 permalink: /archive-layout-with-content/
+lang: zh
 ---
 
 A variety of common markup showing how the theme styles them.

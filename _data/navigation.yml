@@ -10,25 +10,25 @@
 # Chinese Navigation (中文导航)
 main:
   - title: "论文发表"
-    url: /zh/publications/
+    url: /publications/
 
   - title: "学术报告"
-    url: /zh/talks/
+    url: /talks/
 
   - title: "教学经历"
-    url: /zh/teaching/
+    url: /teaching/
 
   - title: "作品集"
-    url: /zh/portfolio/
+    url: /portfolio/
 
   - title: "博客文章"
-    url: /zh/year-archive/
+    url: /year-archive/
 
   - title: "个人简历"
-    url: /zh/cv/
+    url: /cv/
 
   - title: "使用指南"
-    url: /zh/markdown/
+    url: /markdown/
 
 # English Navigation (英文导航)
 en:

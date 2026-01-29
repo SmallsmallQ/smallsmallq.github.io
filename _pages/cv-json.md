@@ -1,7 +1,8 @@
 ---
 layout: archive
-title: "CV"
+title: "个人简历"
 permalink: /cv-json/
+lang: zh
 author_profile: false
 redirect_from:
   - /resume-json

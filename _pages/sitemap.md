@@ -1,7 +1,8 @@
 ---
 layout: archive
-title: "Sitemap"
+title: "网站地图"
 permalink: /sitemap/
+lang: zh
 author_profile: true
 ---
 
